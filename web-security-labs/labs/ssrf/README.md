@@ -1,0 +1,76 @@
+# High-level summary
+
+Server-Side Request Forgery (SSRF) occurs when an application allows users to make requests from the server to internal or external systems. Attackers can exploit SSRF to access restricted resources, internal networks, or perform actions on behalf of the server. Learning about SSRF helps developers validate and sanitize user-provided URLs to prevent unauthorized access.
+
+## Lab 1 — Basic SSRF Against the Local Server
+
+**What this teaches:** How SSRF can let you access local server pages.
+
+**Simple beginner walkthrough:**
+
+1. Try to browse to /admin directly — notice it’s blocked.
+2. Visit a product, click "Check stock," intercept the request, and send it to Repeater.
+3. Change the stockApi URL to [http://localhost/admin](http://localhost/admin) and forward it.
+4. Read the HTML to find the delete URL and submit it in the stockApi parameter.
+
+*Images (placeholders — add 2–3 screenshots):*
+
+* ssrf\_local\_step1.png
+* ssrf\_local\_step2.png
+* ssrf\_local\_step3.png
+
+
+## Lab 2 — Basic SSRF Against Another Back-end System
+
+**What this teaches:** How SSRF can target other internal servers by guessing IP addresses.
+
+**Simple beginner walkthrough:**
+
+1. Click "Check stock" on a product and intercept the request.
+2. Send it to Burp Intruder, change the stockApi URL to [http://192.168.0.1:8080/admin](http://192.168.0.1:8080/admin).
+3. Highlight the last octet, add §, set payload type to Numbers, From 1, To 255, Step 1, and start the attack.
+4. Identify the request returning status 200, send it to Repeater, and change the path to delete carlos.
+
+*Images (placeholders — add 2–3 screenshots):*
+
+* ssrf\_backend\_step1.png
+* ssrf\_backend\_step2.png
+* ssrf\_backend\_step3.png
+* 
+
+## Lab 3 — SSRF with Blacklist-Based Input Filter
+
+**What this teaches :** How SSRF input filters can be bypassed using URL obfuscation.
+
+**Simple beginner walkthrough:**
+
+1. Click "Check stock" and intercept the request, send to Repeater.
+2. Change the stockApi URL to [http://127.0.0.1/](http://127.0.0.1/) — notice it’s blocked.
+3. Use [http://127.1/](http://127.1/) instead, then [http://127.1/admin](http://127.1/admin) — blocked again.
+4. Double URL encode the "a" to %2561 to access the admin interface and delete carlos.
+
+*Images (placeholders — add 2–3 screenshots):*
+
+* ssrf\_blacklist\_step1.png
+* ssrf\_blacklist\_step2.png
+* ssrf\_blacklist\_step3.png
+
+*Quick note:* Only test these steps in authorized lab environments.
+
+## Lab 4 — SSRF via Open Redirection Vulnerability
+
+**What this teaches:** How an open redirection can be used to bypass SSRF restrictions.
+
+**Simple beginner walkthrough:**
+
+1. Click "Check stock," intercept the request, and send to Repeater.
+2. Notice you can’t make requests to a different host directly.
+3. Exploit the open redirection using the nextProduct path: /product/nextProduct?path=[http://192.168.0.12:8080/admin](http://192.168.0.12:8080/admin).
+4. Amend the path to delete carlos: /product/nextProduct?path=[http://192.168.0.12:8080/admin/delete?username=carlos](http://192.168.0.12:8080/admin/delete?username=carlos) and forward the request.
+
+*Images (placeholders — add 2–3 screenshots):*
+
+* ssrf\_openredirect\_step1.png
+* ssrf\_openredirect\_step2.png
+* ssrf\_openredirect\_step3.png
+
