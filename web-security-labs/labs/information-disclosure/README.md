@@ -1,0 +1,42 @@
+# High-level summary
+
+Information disclosure vulnerabilities happen when an application accidentally reveals sensitive information. This could include error messages, system details, or hints about access rules. Learning about these helps prevent attackers from using that information maliciously.
+
+## Lab 1 — Error Message Disclosure
+
+**What this teaches:** How entering unusual inputs can show hidden server details.
+
+**Simple beginner walkthrough:**
+
+1. Open a product page and find the request with the productID.
+2. Send the request to Burp Repeater.
+3. Change the productId to a word like "example" and send it.
+4. Look at the error message showing server info.
+5. Submit the server version to complete the lab.
+
+*Images (placeholders — add 2–3 screenshots):*
+
+* info\_disclosure\_error\_step1.png
+* info\_disclosure\_error\_step2.png
+* info\_disclosure\_error\_step3.png
+
+
+## Lab 2 — Authentication Bypass via Information Disclosure
+
+**What this teaches (one line):** How headers can reveal ways to bypass access restrictions.
+
+**Simple beginner walkthrough:**
+
+1. Send a GET /admin request and notice access rules.
+2. Resend the request with the TRACE method and see the special header.
+3. In Burp, set a rule to automatically add X-Custom-IP-Authorization: 127.0.0.1 to all requests.
+4. Go to the home page and check admin access.
+5. Complete the lab task.
+
+*Images (placeholders — add 2–3 screenshots):*
+
+* info\_disclosure\_header\_step1.png
+* info\_disclosure\_header\_step2.png
+* info\_disclosure\_header\_step3.png
+
+
