@@ -1,0 +1,66 @@
+# High-level summary
+
+GraphQL APIs are flexible and powerful, but misconfigurations or insufficient access controls can expose sensitive data or allow destructive actions. These labs explore three common GraphQL issues: accessing hidden data, discovering hidden endpoints, and bypassing brute-force protections.
+
+---
+
+## Lab 1 — Accessing private GraphQL posts
+
+**What this teaches:** How sequential IDs and exposed fields in GraphQL can reveal hidden posts and sensitive data.
+
+**Simple beginner walkthrough:**
+
+1. Open the lab and visit the blog page in Burp's browser.
+2. Intercept the GraphQL request fetching blog posts. Notice that post ID 3 is missing from the response — this is a hidden post.
+3. Send the `/graphql/v1` POST request to Repeater.
+4. In the GraphQL tab, add the `postPassword` field to the query for post ID 3.
+5. Send the request and copy the `postPassword` from the response. Submit it to solve the lab.
+
+*Images (placeholders — add 2–3 screenshots):*
+
+* graphql_hidden_post_step1.png
+* graphql_hidden_post_step2.png
+* graphql_hidden_post_step3.png
+
+---
+
+## Lab 2 — Finding a hidden GraphQL endpoint
+
+**What this teaches:** How hidden endpoints and introspection protections can be bypassed to discover schema details and manipulate data.
+
+**Simple beginner walkthrough:**
+
+1. Use Burp Repeater to send GET requests to potential endpoints like `/api` with the query parameter `/api?query=query{__typename}`.
+2. Confirm that the response indicates a GraphQL endpoint.
+3. Send a URL-encoded introspection query. If blocked, add a newline after `__schema` to bypass regex-based filtering.
+4. Explore the schema to identify the `getUser` query and `deleteOrganizationUser` mutation.
+5. Send a mutation with `id=3` to delete the user `carlos` and solve the lab.
+
+*Images (placeholders — add 2–3 screenshots):*
+
+* graphql_hidden_endpoint_step1.png
+* graphql_hidden_endpoint_step2.png
+* graphql_hidden_endpoint_step3.png
+
+
+---
+
+## Lab 3 — Bypassing GraphQL brute force protections
+
+**What this teaches:** How aliases can be used to circumvent rate limits and attempt multiple login mutations in a single request.
+
+**Simple beginner walkthrough:**
+
+1. Intercept the login GraphQL mutation in Burp.
+2. In Repeater, craft a single mutation containing multiple aliases. Each alias attempts a different password for the user `carlos`.
+3. Remove the `operationName` and variable dictionary fields if present.
+4. Send the aliased mutation request.
+5. Inspect the response to find the alias with `success: true`.
+6. Log in with the discovered password to solve the lab.
+
+*Images (placeholders — add 2–3 screenshots):*
+
+* graphql_bruteforce_step1.png
+* graphql_bruteforce_step2.png
+* graphql_bruteforce_step3.png
+
