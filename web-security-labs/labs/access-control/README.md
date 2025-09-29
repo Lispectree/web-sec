@@ -14,8 +14,6 @@ Access control vulnerabilities happen when an application does not properly enfo
 
 *Images (placeholders — add 2–3 screenshots):*
 
-![image alt](https://github.com/Lispectree/web-sec/blob/ad61f89186cab4eba890864c9578115a6ff6c8d6/web-security-labs/labs/access-control/access_control_unprotected_admin_step1.png.jpg)
-
 
 
 
