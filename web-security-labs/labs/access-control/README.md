@@ -13,10 +13,9 @@ Access control vulnerabilities happen when an application does not properly enfo
 3. Open the admin panel and complete the lab task.
 
 *Images (placeholders — add 2–3 screenshots):*
+
 access_control_unprotected_admin_step1.png
-
 access_control_unprotected_admin_step2.png
-
 access_control_unprotected_admin_step3.png
 
 
