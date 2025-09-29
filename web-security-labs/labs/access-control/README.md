@@ -13,10 +13,11 @@ Access control vulnerabilities happen when an application does not properly enfo
 3. Open the admin panel and complete the lab task.
 
 *Images (placeholders — add 2–3 screenshots):*
+access_control_unprotected_admin_step1.png
 
-*access_control_unprotected_admin_step1.png.jpg
-* access\_control\_unprotected\_admin\_step2.png
-* access\_control\_unprotected\_admin\_step3.png
+access_control_unprotected_admin_step2.png
+
+access_control_unprotected_admin_step3.png
 
 
 ## Lab 2 — User Role Modification
