@@ -41,27 +41,9 @@ Business logic vulnerabilities happen when an application lets users bypass rule
 * business\_logic\_coupon\_bypass\_step3.png
 
 
-## Lab 3 — Password Change Without Current Password
-
-**What this teaches:** How weak endpoint controls can let someone change another user’s password.
-
-**Simple beginner walkthrough:**
-
-1. Log in and go to your account page.
-2. Change your password and watch the request in Burp.
-3. Remove the field that asks for your current password and forward the request.
-4. Change the username field to 'administrator' and send the request again.
-5. Log out, then log in as the administrator and perform the lab task.
-
-*Images (placeholders — add 2–3 screenshots):*
-
-* business\_logic\_password\_change\_step1.png
-* business\_logic\_password\_change\_step2.png
-* business\_logic\_password\_change\_step3.png
 
 
-
-## Lab 4 — Authentication Bypass via Flawed State Machine
+## Lab 3 — Authentication Bypass via Flawed State Machine
 
 **What this teaches:** How skipping steps in login flow can give admin access.
 
