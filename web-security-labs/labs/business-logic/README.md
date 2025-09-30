@@ -22,7 +22,7 @@ Business logic vulnerabilities happen when an application lets users bypass rule
 
 
 
-## Lab 2 — Coupon Code Bypass
+## Lab 2 — Flawed enforcement of business rules
 
 **What this teaches:** How improper checks let you reuse multiple discount codes to pay less.
 
