@@ -58,20 +58,4 @@ Prototype pollution happens when attacker-controlled input can modify built-in J
 
 
 
-## Lab 4 — Finding a prototype pollution source and gadget (generic discovery)
-
-**What this teaches (one line):** **How to find prototype pollution sources (query string / fragment) and map them to gadgets in the site’s JS to chain to DOM XSS.**
-
-**Simple beginner walkthrough:**
-
-1. Test for a pollution source by adding `/?__proto__[foo]=bar` or modifying the fragment `#...` and then check `Object.prototype` in DevTools → Console.
-2. Review loaded JavaScript files in Sources and search for code that uses properties from a shared config object or accesses properties without `hasOwnProperty` checks — these are likely gadgets (e.g., dynamic script insertion or callback invocation).
-3. Try different injected property names (for example `value`, `transport_url`, `hitCallback`) until one is used by the gadget and triggers DOM insertion or execution.
-4. Once a working chain is identified, craft a payload (data: URL or script URL) via the query string or fragment and load the page to confirm the XSS — lab solved.
-
-*Images (placeholders — add 2–3 screenshots):*
-
-* prototype-pollution_discovery_step1.png
-* prototype-pollution_discovery_step2.png
-* prototype-pollution_discovery_step3.png
 
