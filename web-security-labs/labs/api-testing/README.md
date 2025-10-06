@@ -51,7 +51,11 @@ It shows that a json file is allowed to be attached to the request
 ![image alt](https://github.com/Lispectree/web-sec/blob/f81559f6bc0304d1973e3abe59dc78bd9833f743/web-security-labs/labs/api-testing/ap1%20lab%202%20photo%203.jpg)
 We take advantage of that and change the price to 0 using the json file
 
-![image alt]
+![image alt](https://github.com/Lispectree/web-sec/blob/e7abc8c1d40ccf7d3bc963ce059ee05ddac4c6fb/web-security-labs/labs/api-testing/ap1%20lab%202%20photo%204.jpg)
+As seen in the lab that price is now 
+$0
+Complete the lab by acquiring the product
+
 
 ## Lab 3 — Exploiting server-side parameter pollution in a REST URL
 
@@ -66,8 +70,5 @@ Learn how API requests can be manipulated to access sensitive data through URL p
 4. Use the reset token in the password reset URL to set a new password.
 5. Log in as administrator and delete carlos to solve the lab.
 
-**Images (placeholders — add 2–3 screenshots):**
+   ![image alt]
 
-* api\_testing\_parameter\_pollution\_step1.png
-* api\_testing\_parameter\_pollution\_step2.png
-* api\_testing\_parameter\_pollution\_step3.png
