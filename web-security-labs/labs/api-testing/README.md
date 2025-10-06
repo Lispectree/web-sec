@@ -80,7 +80,8 @@ Username parameter is edited using path traversal to show a file that can be use
   ![image alt](https://github.com/Lispectree/web-sec/blob/12abfa48df8084e7fe0443f51f29407ca91cd130/web-security-labs/labs/api-testing/ap1%20lab%203%20%20photo%203.jpg)
   The rest token
 
- ![image alt](
+ ![image alt](https://github.com/Lispectree/web-sec/blob/24ba949ed3ef21bd0117ed3a20423a1aec09cc9b/web-security-labs/labs/api-testing/ap1%20lab%203%20%20photo%204.jpg)
+ Input the rest token into the url and you can change the password and access the administrator account to delete the username instructed
   
 
  
