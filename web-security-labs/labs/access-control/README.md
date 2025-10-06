@@ -32,13 +32,7 @@ Delete that user that was instructed by the lab
 3. Send the request to Burp Repeater and change the roleid to 2.
 4. Forward the request and confirm your new role.
 5. Access /admin and complete the lab task.
-
-*Images (placeholders — add 2–3 screenshots):*
-
-* access\_control\_role\_mod\_step1.png
-* access\_control\_role\_mod\_step2.png
-* access\_control\_role\_mod\_step3.png
-
+ ![image alt](
 
 ## Lab 3 — URL-based Access Control Bypass
 
