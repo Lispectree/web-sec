@@ -58,6 +58,10 @@ Enter the admin panel and complete the lab
 ![image alt](https://github.com/Lispectree/web-sec/blob/3994a1361ce0cfdcd8db6998ae1762aeb9dc9586/labs/sql-injection/access%20control%20lab3%20photo%201.jpg)
 This header highlighted(X-Original-url) shows that the request header Chan be manipulated bypassing restrictions
 
+![image alt](https://github.com/Lispectree/web-sec/blob/4f9582632080c119723e56c8fddb34f7feaaf9dd/labs/sql-injection/access%20control%20lab3%20photo%202.jpg)
+The admin page is assessed and the response contains a link to delete users
+Copy the link to delete the user as directed by the lab
+
 
 ## Lab 4 — Referer-based Access Control
 
