@@ -81,6 +81,11 @@ And the lab is complete
 ![image alt](https://github.com/Lispectree/web-sec/blob/f30595c7647f57683c55bd8e5870f46f37c9ebf0/labs/sql-injection/access%20control%20lab4%20photo%201.jpg)
 The lab instructions
 
+![image alt](https://github.com/Lispectree/web-sec/blob/23f070ecaf7b886074ade1b0df9d7055215ebca1/labs/sql-injection/access%20control%20lab4%20photo%202.jpg)
+This is the request used to upgrade Carlos user
+We will copy this and use it for Wiener
+
+![image alt]
 
 
 
