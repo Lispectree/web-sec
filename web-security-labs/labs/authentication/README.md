@@ -21,7 +21,13 @@ How a website’s different messages for login can reveal which usernames actual
 ![image alt](https://github.com/Lispectree/web-sec/blob/e45d210d4c567c15095848a54cbce550f5835d21/web-security-labs/labs/authentication/AUTH%20Lab1%20Photo1.jpg)
 After trying a random username and password you get invalid username response
 
+![image alt](https://github.com/Lispectree/web-sec/blob/7a0062254ae4c5b5a76e8361a62f2eea927b3b13/web-security-labs/labs/authentication/AUTH%20Lab1%20Photo2.jpg)
+After using the world list provided in the lab
+For username enumeration 
+One of the responses doesn’t show invalid username indicating the username is correct
+
 ![image alt](
+
 
 
 ## Lab 2 — Password reset broken logic (token not checked)
