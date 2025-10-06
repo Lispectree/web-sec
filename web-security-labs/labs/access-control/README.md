@@ -46,7 +46,7 @@ Enter the admin panel and complete the lab
 
 ## Lab 3 — URL-based Access Control Bypass
 
-**What this teaches (one line):** How modifying request headers can bypass front-end restrictions.
+**What this teaches:** How modifying request headers can bypass front-end restrictions.
 
 **Simple beginner walkthrough:**
 
@@ -55,11 +55,8 @@ Enter the admin panel and complete the lab
 3. Change the header to /admin and forward the request.
 4. Use ?username=carlos in the query string with X-Original-URL: /admin/delete to complete the task.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* access\_control\_url\_bypass\_step1.png
-* access\_control\_url\_bypass\_step2.png
-* access\_control\_url\_bypass\_step3.png
+![image alt](https://github.com/Lispectree/web-sec/blob/3994a1361ce0cfdcd8db6998ae1762aeb9dc9586/labs/sql-injection/access%20control%20lab3%20photo%201.jpg)
+This header highlighted(X-Original-url) shows that the request header Chan be manipulated bypassing restrictions
 
 
 ## Lab 4 — Referer-based Access Control
