@@ -59,27 +59,9 @@ Web cache poisoning tricks a shared cache into storing attacker-controlled respo
 * web-cache-poisoning_parameter-cloaking_step3.png
 
 
-## Lab 4 — Web cache poisoning via Host header and alternate cache rules
 
-**What this teaches:** How cache key derivation quirks (e.g., treating semicolons or other separators specially) and alternate import URLs can be abused to poison shared resources.
 
-**Simple beginner walkthrough:**
-
-1. Identify a resource that pages import (e.g., `/resources/js/tracking.js` or `/js/geolocate.js`) and confirm how its query string and headers affect cache keys.
-2. Test variations in the Host or X-Forwarded-Host header and observe whether the origin uses those values to construct imported resource URLs.
-3. If a header or parameter is excluded from the cache key but reflected into the response, craft a malicious resource on your exploit server matching the reflected path and content.
-4. Send the request that causes the origin to import your exploit server resource and wait for `X-Cache: hit` in responses; then view the poisoned resource in a browser to confirm the payload runs.
-5. Keep replaying the request so the cache remains poisoned until the victim visits a page importing the resource and the lab is solved.
-
-*Images (placeholders — add 2–3 screenshots):*
-
-* web-cache-poisoning_host-header_step1.png
-* web-cache-poisoning_host-header_step2.png
-* web-cache-poisoning_host-header_step3.png
-
----
-
-## Lab 5 — Combining web cache poisoning vulnerabilities
+## Lab 4 — Combining web cache poisoning vulnerabilities
 
 **What this teaches:** How multiple cache-poisoning techniques (unkeyed header + redirect cloaking) can be chained to force users to load a poisoned resource.
 
