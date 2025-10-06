@@ -16,12 +16,8 @@ Learn how exposed API documentation can reveal endpoints and actions.
 4. Open the interactive documentation in your browser and locate the DELETE endpoint.
 5. Use the DELETE endpoint to remove the user carlos to solve the lab.
 
-**Images (placeholders — add 2–3 screenshots):**
-
-* api\_testing\_endpoint\_doc\_step1.png
-* api\_testing\_endpoint\_doc\_step2.png
-* api\_testing\_endpoint\_doc\_step3.png
-
+![image alt](https://github.com/Lispectree/web-sec/blob/fdc933f392dc0420334bc9d4d90a285834a0c7f0/labs/sql-injection/ap1%20lab%201%20photo%201.jpg)
+Use the change email function
 
 ## Lab 2 — Finding and exploiting an unused API endpoint
 
