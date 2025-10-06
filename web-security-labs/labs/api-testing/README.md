@@ -70,5 +70,9 @@ Learn how API requests can be manipulated to access sensitive data through URL p
 4. Use the reset token in the password reset URL to set a new password.
 5. Log in as administrator and delete carlos to solve the lab.
 
-   ![image alt]
+   ![image alt](https://github.com/Lispectree/web-sec/blob/31ea123a8dc3d65bf55a18f0f6ffc35f1ebbead5/web-security-labs/labs/api-testing/ap1%20lab%203%20%20photo%201.jpg)
+   The request of the /forgotpassword
+Username parameter is edited using path traversal to show a file that can be used to access any field
+
+ ![image alt](
 
