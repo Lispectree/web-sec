@@ -74,5 +74,10 @@ Learn how API requests can be manipulated to access sensitive data through URL p
    The request of the /forgotpassword
 Username parameter is edited using path traversal to show a file that can be used to access any field
 
- ![image alt](
+ ![image alt](https://github.com/Lispectree/web-sec/blob/7c3bc2365bc5eab8c99bd96e7b8cba396b9c70fa/web-security-labs/labs/api-testing/ap1%20lab%203%20%20photo%202.jpg)
+ The path to show the reset token of the administrator
+
+  ![image alt](
+
+ 
 
