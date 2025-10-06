@@ -32,7 +32,9 @@ Delete that user that was instructed by the lab
 3. Send the request to Burp Repeater and change the roleid to 2.
 4. Forward the request and confirm your new role.
 5. Access /admin and complete the lab task.
- ![image alt](
+   
+ ![image alt](https://github.com/Lispectree/web-sec/blob/8aaa048b53f1f17d4c90ada1e3d3e972bec0ee7e/labs/sql-injection/access%20control%20lab2%20photo%201.jpg)
+The lab information telling you the admin page is accessible to users with a roleid of 2
 
 ## Lab 3 — URL-based Access Control Bypass
 
