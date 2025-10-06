@@ -26,7 +26,11 @@ After using the world list provided in the lab
 For username enumeration 
 One of the responses doesn’t show invalid username indicating the username is correct
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/cea709aef87c24b9c6558be349a0a0a796f90ed4/web-security-labs/labs/authentication/AUTH%20Lab1%20Photo3.jpg)
+Next is to use the password worldlist for the username
+The one that brings out a status code of 302
+Is the correct password
+You can now login and solve the lab
 
 
 
