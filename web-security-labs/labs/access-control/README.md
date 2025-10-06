@@ -85,7 +85,8 @@ The lab instructions
 This is the request used to upgrade Carlos user
 We will copy this and use it for Wiener
 
-![image alt]
+![image alt](https://github.com/Lispectree/web-sec/blob/abe6b6bedb6120c057803c9c1d41c9318a52ee27/labs/sql-injection/access%20control%20lab4%20photo%203.jpg)
+We use the path for Wiener and the lab is complete
 
 
 
