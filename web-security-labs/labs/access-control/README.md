@@ -78,11 +78,5 @@ And the lab is complete
 3. Copy the non-admin session cookie into Burp, adjust the username to yours, and forward the request.
 4. Complete the lab task.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* access\_control\_referer\_step1.png
-* access\_control\_referer\_step2.png
-* access\_control\_referer\_step3.png
-
 
 
