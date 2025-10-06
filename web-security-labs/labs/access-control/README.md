@@ -11,7 +11,8 @@ Access control vulnerabilities happen when an application does not properly enfo
 1. View the lab home page source in your browser or Burp.
 2. Look for JavaScript that shows the admin panel URL.
 3. Open the admin panel and complete the lab task.
-
+   ![image alt](https://github.com/Lispectree/web-sec/blob/8dc05cf749b36defe855a82cd955375c129dd404/labs/sql-injection/access%20control%20lab1%20photo%201.jpg)
+This shows that the admin subdomain isn’t found
 
 ## Lab 2 — User Role Modification
 
