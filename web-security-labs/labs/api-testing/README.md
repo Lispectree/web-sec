@@ -44,6 +44,10 @@ Learn how to identify hidden or unused API endpoints and manipulate them.
 ![image alt](https://github.com/Lispectree/web-sec/blob/3527c4489eea9b2541e653e3438da9e795c156f2/web-security-labs/labs/api-testing/ap1%20lab%202%20photo%201.jpg)
 This shows the request for a product we are trying to purchase
 
+![image alt](https://github.com/Lispectree/web-sec/blob/2081cb9a020ace5f2b2e95710bdc4d94089ca81c/web-security-labs/labs/api-testing/ap1%20lab%202%20photo%202.jpg)
+Changing the request to PATCH 
+It shows that a json file is allowed to be attached to the request
+
 ![image alt]
 
 
