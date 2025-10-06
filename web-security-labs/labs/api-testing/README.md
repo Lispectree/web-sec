@@ -41,11 +41,10 @@ Learn how to identify hidden or unused API endpoints and manipulate them.
 4. Add a JSON body with {"price":0} to set the product price to zero.
 5. Reload the product page, add it to your basket, and place the order to solve the lab.
 
-**Images (placeholders — add 2–3 screenshots):**
+![image alt](https://github.com/Lispectree/web-sec/blob/3527c4489eea9b2541e653e3438da9e795c156f2/web-security-labs/labs/api-testing/ap1%20lab%202%20photo%201.jpg)
+This shows the request for a product we are trying to purchase
 
-* api\_testing\_unused\_endpoint\_step1.png
-* api\_testing\_unused\_endpoint\_step2.png
-* api\_testing\_unused\_endpoint\_step3.png
+![image alt]
 
 
 ## Lab 3 — Exploiting server-side parameter pollution in a REST URL
