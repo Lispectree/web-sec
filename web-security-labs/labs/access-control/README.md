@@ -62,6 +62,10 @@ This header highlighted(X-Original-url) shows that the request header Chan be ma
 The admin page is assessed and the response contains a link to delete users
 Copy the link to delete the user as directed by the lab
 
+![image alt](https://github.com/Lispectree/web-sec/blob/95ee06fdcb77b2869423bc6ee8fb419bb905fd3a/labs/sql-injection/access%20control%20lab3%20photo%2013.jpg)
+Delete the user 
+And the lab is complete
+
 
 ## Lab 4 — Referer-based Access Control
 
