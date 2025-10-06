@@ -50,6 +50,8 @@ If the password reset token isn’t validated when submitting a new password, an
 ![image alt](https://github.com/Lispectree/web-sec/blob/f09eb5088fbdbb437656715644a42cfda65060c9/web-security-labs/labs/authentication/AUTH%20Lab2%20Photo1.jpg)
 The forgot password function of the website
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/a4690360a2b63db55abdbafa3ab1721b586f0244/web-security-labs/labs/authentication/AUTH%20Lab2%20Photo2.jpg)
+It contains a password token that is cross checked by a client controlled input
+Change the two to any random value and change the username to the account the lab instructed you to log into
 
 
