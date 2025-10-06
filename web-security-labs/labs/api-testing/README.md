@@ -48,8 +48,10 @@ This shows the request for a product we are trying to purchase
 Changing the request to PATCH 
 It shows that a json file is allowed to be attached to the request
 
-![image alt]
+![image alt](https://github.com/Lispectree/web-sec/blob/f81559f6bc0304d1973e3abe59dc78bd9833f743/web-security-labs/labs/api-testing/ap1%20lab%202%20photo%203.jpg)
+We take advantage of that and change the price to 0 using the json file
 
+![image alt]
 
 ## Lab 3 — Exploiting server-side parameter pollution in a REST URL
 
