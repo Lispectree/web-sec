@@ -36,7 +36,7 @@ You can now login and solve the lab
 
 ## Lab 2 — Password reset broken logic (token not checked)
 
-**What this teaches (one line):**
+**What this teaches :**
 If the password reset token isn’t validated when submitting a new password, an attacker can reset someone else’s password by changing the username in the request.
 
 **Simple beginner walkthrough:**
@@ -47,11 +47,8 @@ If the password reset token isn’t validated when submitting a new password, an
 4. Request another reset for your account to get a fresh flow, capture the `POST` request again, remove the token value, and change the username field to another user (for example, `carlos`). Set a new password you choose and send the request.
 5. Try logging into that other user’s account (e.g., Carlos) with the new password. If it works, the reset logic is broken and allowed you to change someone else’s password without a valid token.
 
-**Images (placeholders — add 2–3 screenshots):**
+![image alt](
 
-* `images/auth_reset_token_step1.png`
-* `images/auth_reset_token_step2.png`
-* `images/auth_reset_token_step3.png`
 
 
 
