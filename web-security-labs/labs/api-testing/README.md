@@ -22,7 +22,10 @@ Use the update email function
 ![image alt](https://github.com/Lispectree/web-sec/blob/991c4f87d38fb8320859f3b41f73576fa9f28f4c/labs/sql-injection/ap1%20lab%201%20photo%202.jpg)
 Monitor the request and remove any other requests attached to the api to see that api documentation
 
-![image alt]
+![image alt](https://github.com/Lispectree/web-sec/blob/1ba09517426ff2bdbf09ccd898943e15d6a1e59f/labs/sql-injection/ap1%20lab%201%20photo%203.jpg)
+Follow the api documentation of the delete request to delete the user instructed by the lab
+
+
 ## Lab 2 — Finding and exploiting an unused API endpoint
 
 **What this teaches:**
