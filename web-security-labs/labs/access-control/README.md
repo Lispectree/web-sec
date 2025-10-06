@@ -78,5 +78,10 @@ And the lab is complete
 3. Copy the non-admin session cookie into Burp, adjust the username to yours, and forward the request.
 4. Complete the lab task.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/f30595c7647f57683c55bd8e5870f46f37c9ebf0/labs/sql-injection/access%20control%20lab4%20photo%201.jpg)
+The lab instructions
+
+
+
 
 
