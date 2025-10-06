@@ -11,11 +11,16 @@ Access control vulnerabilities happen when an application does not properly enfo
 1. View the lab home page source in your browser or Burp.
 2. Look for JavaScript that shows the admin panel URL.
 3. Open the admin panel and complete the lab task.
+
    ![image alt](https://github.com/Lispectree/web-sec/blob/8dc05cf749b36defe855a82cd955375c129dd404/labs/sql-injection/access%20control%20lab1%20photo%201.jpg)
 This shows that the admin subdomain isn’t found
 
 ![image alt](https://github.com/Lispectree/web-sec/blob/120bbc6a0faf6eb4d872b44978d8007ddf56a8c0/labs/sql-injection/access%20control%20lab1%20photo%202.jpg)
 /robots.txt shows hidden subdomains
+
+![image alt](https://github.com/Lispectree/web-sec/blob/5226e16c869b8109f5f226568b53f2eb2428aab6/labs/sql-injection/access%20control%20lab1%20photo%203.jpg)
+Delete that user that was instructed by the lab
+
 ## Lab 2 — User Role Modification
 
 **What this teaches:** How modifying profile data can escalate privileges.
