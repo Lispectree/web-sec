@@ -36,6 +36,14 @@ Delete that user that was instructed by the lab
  ![image alt](https://github.com/Lispectree/web-sec/blob/8aaa048b53f1f17d4c90ada1e3d3e972bec0ee7e/labs/sql-injection/access%20control%20lab2%20photo%201.jpg)
 The lab information telling you the admin page is accessible to users with a roleid of 2
 
+![image alt](https://github.com/Lispectree/web-sec/blob/2383ab4def01407b5c101aea3d76ff93469438cd/labs/sql-injection/access%20control%20lab2%20photo%202.jpg)
+The request and response of the change email request as seen here
+Showing your role id
+
+![image alt](https://github.com/Lispectree/web-sec/blob/2383ab4def01407b5c101aea3d76ff93469438cd/labs/sql-injection/access%20control%20lab2%20photo%203.jpg)
+Role id can be manipulated by the user to 2 which will give you admin privileges
+Enter the admin panel and complete the lab
+
 ## Lab 3 — URL-based Access Control Bypass
 
 **What this teaches (one line):** How modifying request headers can bypass front-end restrictions.
