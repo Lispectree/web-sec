@@ -47,8 +47,9 @@ If the password reset token isn’t validated when submitting a new password, an
 4. Request another reset for your account to get a fresh flow, capture the `POST` request again, remove the token value, and change the username field to another user (for example, `carlos`). Set a new password you choose and send the request.
 5. Try logging into that other user’s account (e.g., Carlos) with the new password. If it works, the reset logic is broken and allowed you to change someone else’s password without a valid token.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/f09eb5088fbdbb437656715644a42cfda65060c9/web-security-labs/labs/authentication/AUTH%20Lab2%20Photo1.jpg)
+The forgot password function of the website
+
 ![image alt](
-
-
 
 
