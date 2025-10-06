@@ -14,7 +14,8 @@ Access control vulnerabilities happen when an application does not properly enfo
    ![image alt](https://github.com/Lispectree/web-sec/blob/8dc05cf749b36defe855a82cd955375c129dd404/labs/sql-injection/access%20control%20lab1%20photo%201.jpg)
 This shows that the admin subdomain isn’t found
 
-![image alt]
+![image alt](https://github.com/Lispectree/web-sec/blob/120bbc6a0faf6eb4d872b44978d8007ddf56a8c0/labs/sql-injection/access%20control%20lab1%20photo%202.jpg)
+/robots.txt shows hidden subdomains
 ## Lab 2 — User Role Modification
 
 **What this teaches:** How modifying profile data can escalate privileges.
