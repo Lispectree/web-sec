@@ -65,4 +65,5 @@ Delete the user as instructed and solve the lab
   Post a payload in the exploit server to get the token of the target
 
 
- ![image alt](
+ ![image alt](https://github.com/Lispectree/web-sec/blob/a8b0bef6c2d5aa905278618888daf6297919979d/web-security-labs/labs/jwt/JWT%20LAB3%20PHOTO3.jpg)
+ Edit your token to contain your exploit server
