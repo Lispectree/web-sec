@@ -14,12 +14,11 @@ Information disclosure vulnerabilities happen when an application accidentally r
 4. Look at the error message showing server info.
 5. Submit the server version to complete the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
+![image alt](https://github.com/Lispectree/web-sec/blob/0ba928deb2a195ef8c2dc7ecad1253739f3719d6/web-security-labs/labs/information-disclosure/INFORMATION%20LAB1%20PHOTO1.jpg)
+The lab instructions
 
-* info\_disclosure\_error\_step1.png
-* info\_disclosure\_error\_step2.png
-* info\_disclosure\_error\_step3.png
 
+![image alt](
 
 ## Lab 2 — Authentication Bypass via Information Disclosure
 
