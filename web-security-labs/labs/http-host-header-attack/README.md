@@ -75,7 +75,9 @@ Save it in the cache
    The status code of 200 indicate it is the internal ip
 
 
-      ![image alt](
+      ![image alt](https://github.com/Lispectree/web-sec/blob/9eca6696c462890c360a5eaa39d09d56a96cd0f6/web-security-labs/labs/http-host-header-attack/HEADER%20ATTACK%20LAB3%20PHOTO4.jpg)
+   Edit the host request to the internal ip and delete the user
+   
 ## Lab 4 — Host validation bypass via connection state attack
 
 *What this teaches:* **How reusing a single connection (keep-alive) with carefully ordered requests can bypass Host-based routing checks.**
@@ -87,11 +89,5 @@ Save it in the cache
 3. Set the group send mode to "Send group in sequence (single connection)" and set `Connection: keep-alive`. Send the sequence.
 4. Check responses — the second request may be processed as `/admin` by the backend. Use the returned admin panel to find the delete form and copy the CSRF token and session cookie.
 5. Craft and send a POST to `/admin/delete` with the CSRF token and `username=carlos` while preserving the session cookie to delete Carlos and solve the lab.
-
-*Images (placeholders — add 2–3 screenshots):*
-
-* http-host-header-attack_connection-state-bypass_step1.png
-* http-host-header-attack_connection-state-bypass_step2.png
-* http-host-header-attack_connection-state-bypass_step3.png
 
 
