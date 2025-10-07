@@ -44,7 +44,8 @@ The first coupon
 ![image alt](https://github.com/Lispectree/web-sec/blob/a36fb4107e9cdae57a364df756aa041cfb921b22/web-security-labs/labs/business-logic/BUS%20LOGIC%20photo2%20lab2.jpg)
 2nd coupon after signing up
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/5daf4866636358cc01b2e7f5ed3db5cac7dbcb84/web-security-labs/labs/business-logic/BUS%20LOGIC%20photo3%20lab2.jpg)
+Use the coupon alternatively to get a balance of $0 and purchase it
 
 
 
