@@ -22,7 +22,13 @@ Instead of “not found”
 Which is evidence of this endpoint existing
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/2a7112fa7df3c4a152af8d00afbfa4c8c6701326/web-security-labs/labs/graphql-vulnerabilities/GRAPHQL%20LAB1%20PHOTO2.jpg)
+Change the request to POST and add a json file as instructed 
+Preferably to read the schema
+
+
 ![image alt](
+
 
 
 
