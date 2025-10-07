@@ -37,4 +37,9 @@ The api key of the administrator
 4. View the exploit and confirm the API key ends up on the exploit server log page, then Deliver exploit to victim.
 5. Retrieve the victim’s API key from the Access log and submit it to solve the lab.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/96456ab292d24d3e15a805f14e556381218cde98/web-security-labs/labs/cors/CORS%20LAB2%20PHOTO1.jpg)
+Evidence of CORS usage
+
+
 ![image alt](
+
