@@ -19,6 +19,10 @@ After logging in
 You are required to buy the leather jacket
 But your balance won’t be able to purchase it
 
+![image alt](https://github.com/Lispectree/web-sec/blob/31ee40de032308b7897b4f345d1ed69b3b052709/web-security-labs/labs/business-logic/BUS%20LOGIC%20photo2%20lab1.jpg)
+The add to cart request of the jacket
+The price is client controlled and can be reduced to any price
+
 ![image alt](
 
 
