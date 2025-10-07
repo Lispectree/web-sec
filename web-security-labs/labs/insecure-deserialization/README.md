@@ -40,6 +40,10 @@ Change that admin to true and edit the session cookie
 Account login page discloses presence of a php file
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/8cad43a4844bdd428b4ea6922c03d66446218906/web-security-labs/labs/insecure-deserialization/INSECURE%20LAB2%20PHOTO2.jpg)
+The script of the file shows how a file can be deleted
+
+
 ![image alt](
 ## Lab 3 — Exploiting Ruby deserialization using a documented gadget chain
 
