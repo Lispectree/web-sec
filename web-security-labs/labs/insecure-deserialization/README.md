@@ -44,7 +44,9 @@ Account login page discloses presence of a php file
 The script of the file shows how a file can be deleted
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/c101a580e4d9c99c3fa80f79940e6fd83e82932d/web-security-labs/labs/insecure-deserialization/INSECURE%20LAB2%20PHOTO3.jpg)
+Draft a session token and delete morale.txt file
+
 ## Lab 3 — Exploiting Ruby deserialization using a documented gadget chain
 
 **What this teaches:** How to reuse a public Ruby gadget chain to run commands when a Ruby object is deserialized.
