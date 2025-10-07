@@ -41,7 +41,11 @@ The price is client controlled and can be reduced to any price
 ![image alt](https://github.com/Lispectree/web-sec/blob/6cd527c807c701226c9871142c7e48d1589805cc/web-security-labs/labs/business-logic/BUS%20LOGIC%20photo1%20lab2.jpg)
 The first coupon
 
+![image alt](https://github.com/Lispectree/web-sec/blob/a36fb4107e9cdae57a364df756aa041cfb921b22/web-security-labs/labs/business-logic/BUS%20LOGIC%20photo2%20lab2.jpg)
+2nd coupon after signing up
+
 ![image alt](
+
 
 
 
