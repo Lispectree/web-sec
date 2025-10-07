@@ -66,6 +66,10 @@ Change the path of the uploaded file by exploiting path traversal
    Php files are not allowed to be uploaded
 
 
+   ![image alt](https://github.com/Lispectree/web-sec/blob/5f652b781348f7c35a280e3979826fa2db38f9b9/web-security-labs/labs/file-upload/FILE%20UPLOAD%20LAB3%20PHOTO2.jpg)
+The response discloses additional information like the server being an Apache server
+
+
    ![image alt](
 
 
