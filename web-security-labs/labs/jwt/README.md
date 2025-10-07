@@ -57,4 +57,8 @@ Delete the user as instructed and solve the lab
 3. In the JWT payload change `sub` to `administrator`. Use your private RSA key to sign the token (use the JWT editor’s Sign feature), then send the request to `/admin`.
 4. If successful you’ll see the admin panel — visit `/admin/delete?username=carlos` to solve the lab.
 
- ![image alt](
+ ![image alt](https://github.com/Lispectree/web-sec/blob/8496d82227e11d676badcf37f039c69130393c76/web-security-labs/labs/jwt/JWT%20LAB3%20PHOTO1.jpg)
+ JWT token is present in the highlighted request
+
+
+  ![image alt](
