@@ -35,7 +35,11 @@ Delete the user as instructed and solve the lab
 2. Use a JWT cracking tool or hashcat with a wordlist of likely secrets to brute-force the token’s signing key (for example: `hashcat -a 0 -m 16500 <YOUR-JWT> /path/to/jwt.secrets.list`).
 3. When the secret is found (e.g., `secret1`), use it to sign a new token whose `sub` claim is `administrator` (the JWT Editor extension can help), then resend the request to `/admin`.
 4. If the admin panel opens, go to `/admin/delete?username=carlos` to solve the lab.
-   ![image alt](
+   ![image alt](https://github.com/Lispectree/web-sec/blob/1d2cd5d3f8b8b3b9cbd5c02e67cf551182b04ef5/web-security-labs/labs/jwt/JWT%20LAB2%20PHOTO1.jpg)
+   The color shows presence of JWT token
+
+
+  ![image alt](
 
 ## Lab 3 — JWT authentication bypass via JKU header injection
 
