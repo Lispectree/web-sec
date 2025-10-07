@@ -14,12 +14,7 @@ Host header attacks abuse how a web application or its middleware uses the HTTP 
 4. Take your original reset email URL, replace its token with the one you captured, visit it, and set a new password for Carlos.
 5. Log in as Carlos to confirm the account was reset and solve the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* http-host-header-attack_password-reset-poisoning_step1.png
-* http-host-header-attack_password-reset-poisoning_step2.png
-* http-host-header-attack_password-reset-poisoning_step3.png
-
+![image alt](
 
 ---
 
