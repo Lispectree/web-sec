@@ -41,5 +41,9 @@ The api key of the administrator
 Evidence of CORS usage
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/b8870112878ab669ba18bf398d5a34bc93e532c0/web-security-labs/labs/cors/CORS%20LAB2%20PHOTO2.jpg)
+Origin of null are accepted
+
+
 ![image alt](
 
