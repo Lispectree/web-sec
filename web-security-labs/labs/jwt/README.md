@@ -17,6 +17,11 @@ JSON Web Tokens (JWTs) are used to carry authentication data between clients and
 Request that contains JWT are highlighted
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/546e0fec425116122fe0b9a416064ad1eea107ba/web-security-labs/labs/jwt/JWT%20LAB1%20PHOTO2.jpg)
+The payload section of the JWT shows the sub field
+Edit it to admin to access the admin page
+
+
 ![image alt](
 ## Lab 2 — JWT authentication bypass via weak signing key
 
