@@ -63,6 +63,9 @@ Use the coupon alternatively to get a balance of $0 and purchase it
 4. Forward the first login request, drop the next role-selection request, then go to the home page.
 5. Observe you are now logged in as an administrator and complete the lab task.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/6f05485f85f1a2d676c031fed938e6c2b9683b83/web-security-labs/labs/business-logic/BUS%20LOGIC%20photo1%20lab3.jpg)
+After logging in you are expected to select a role before you are granted access to
+
 ![image alt](
 
 
