@@ -13,12 +13,11 @@ JSON Web Tokens (JWTs) are used to carry authentication data between clients and
 3. In the JWT header change `alg` to `none` and remove the signature portion of the token (leave the trailing dot after the payload).
 4. Send the modified request to `/admin`. If accepted, you will see the admin panel — navigate to `/admin/delete?username=carlos` to finish the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
+![image alt](https://github.com/Lispectree/web-sec/blob/9b4cd9d306f70e772a64f1333d5a6d90d8cd2e87/web-security-labs/labs/jwt/JWT%20LAB1%20PHOTO1.jpg)
+Request that contains JWT are highlighted
 
-* web-security-labs/labs/jwt/images/jwt_alg_none_bypass_step1.png
-* web-security-labs/labs/jwt/images/jwt_alg_none_bypass_step2.png
-* web-security-labs/labs/jwt/images/jwt_alg_none_bypass_step3.png
 
+![image alt](
 ## Lab 2 — JWT authentication bypass via weak signing key
 
 **What this teaches:** **How weak or guessable signing keys can be brute-forced to create valid tokens.**
