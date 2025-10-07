@@ -57,7 +57,9 @@ Indicating this endpoint is a hidden graphql endpoint
 URL encode the request
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/0d756628f35eb4cb3f7b169a89ca41df6fd1b25a/web-security-labs/labs/graphql-vulnerabilities/GRAPHQL%20LAB2%20PHOTO3.jpg)
+Delete Carlos user
+And complete the lab
 
 
 ## Lab 3 — Bypassing GraphQL brute force protections
