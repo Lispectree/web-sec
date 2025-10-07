@@ -13,12 +13,11 @@ Insecure deserialization happens when an application accepts serialized data (st
 3. In Repeater's Inspector, change the `admin` value from `b:0` to `b:1`, apply changes so Burp re-encodes the cookie, then resend the request.
 4. Visit `/admin` and perform the admin action (for example, `/admin/delete?username=carlos`) to solve the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
+![image alt](https://github.com/Lispectree/web-sec/blob/41a99e3924b5a7d8ecb301a709e7907af69fafbe/web-security-labs/labs/insecure-deserialization/INSECURE%20LAB1%20PHOTO1.jpg)
+Lab instructions
 
-* insecure-deserialization_modifying_serialized_objects_step1.png
-* insecure-deserialization_modifying_serialized_objects_step2.png
-* insecure-deserialization_modifying_serialized_objects_step3.png
 
+![image alt](
 ## Lab 2 — Arbitrary object injection in PHP
 
 **What this teaches:** How crafting a serialized object of a known class can trigger dangerous behavior (like deleting files) when the object is deserialized.
