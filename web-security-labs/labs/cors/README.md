@@ -15,8 +15,11 @@ CORS (Cross-Origin Resource Sharing) controls whether a web page from one origin
 5. Open Access log, copy the victim’s API key and submit it to solve the lab.
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/e96b6e212cf3cfe123659693eabcb3ff77857837/web-security-labs/labs/cors/CORS%20LAB1%20PHOTO1.jpg)
+Account details response contains api key that is necessary in logging in
 
+
+![image alt](
 ## Lab 2 — CORS vulnerability with trusted null origin
 
 **What this teaches:** How trusting the `null` origin (e.g., from sandboxed iframes) can let attackers read protected responses.
