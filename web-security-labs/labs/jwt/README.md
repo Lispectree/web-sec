@@ -22,7 +22,9 @@ The payload section of the JWT shows the sub field
 Edit it to admin to access the admin page
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/561e37ae31d6b5956f4669aa8ced149b6285478a/web-security-labs/labs/jwt/JWT%20LAB1%20PHOTO3.jpg)
+The admin page
+Delete the user as instructed and solve the lab
 ## Lab 2 — JWT authentication bypass via weak signing key
 
 **What this teaches:** **How weak or guessable signing keys can be brute-forced to create valid tokens.**
