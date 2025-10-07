@@ -71,9 +71,7 @@ Save it in the cache
    Use intruder to find the internal ip address
 
 
-         ![image alt](
-   
-
+      ![image alt](
 
 ## Lab 4 — Host validation bypass via connection state attack
 
