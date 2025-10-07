@@ -62,6 +62,10 @@ Draft a session token and delete morale.txt file
    Lab instructions
 
 
-   ![image alt](
+   ![image alt](https://github.com/Lispectree/web-sec/blob/304adde0a9d029dc64dbdb255349e670ad7b77cc/web-security-labs/labs/insecure-deserialization/INSECURE%20LAB3%20PHOTO2.jpg)
+   The decoded cookie shows username
+
+
+      ![image alt](
 
 
