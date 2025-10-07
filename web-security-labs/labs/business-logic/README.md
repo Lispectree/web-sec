@@ -63,10 +63,7 @@ Use the coupon alternatively to get a balance of $0 and purchase it
 4. Forward the first login request, drop the next role-selection request, then go to the home page.
 5. Observe you are now logged in as an administrator and complete the lab task.
 
-*Images (placeholders — add 2–3 screenshots):*
+![image alt](
 
-* business\_logic\_auth\_bypass\_step1.png
-* business\_logic\_auth\_bypass\_step2.png
-* business\_logic\_auth\_bypass\_step3.png
 
 
