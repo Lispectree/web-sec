@@ -17,7 +17,12 @@ Insecure deserialization happens when an application accepts serialized data (st
 Lab instructions
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/02302f77a4b4d5ed74bd22fc6dffc78e8755dc77/web-security-labs/labs/insecure-deserialization/INSECURE%20LAB1%20PHOTO2.jpg)
+The decoded session cookie contains parameters that are predictable
+
+
 ![image alt](
+
 ## Lab 2 — Arbitrary object injection in PHP
 
 **What this teaches:** How crafting a serialized object of a known class can trigger dangerous behavior (like deleting files) when the object is deserialized.
