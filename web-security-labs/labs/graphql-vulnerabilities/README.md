@@ -75,5 +75,11 @@ And complete the lab
 5. Inspect the response to find the alias with `success: true`.
 6. Log in with the discovered password to solve the lab.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/6cd412bfe48abfac51febd64e86fe6e1811eacad/web-security-labs/labs/graphql-vulnerabilities/GRAPHQL%20LAB3%20PHOTO1.jpg)
+Shows that a brute force protection is present
+
+
 ![image alt](
+
+
 
