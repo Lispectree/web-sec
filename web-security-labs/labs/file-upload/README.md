@@ -70,7 +70,8 @@ Change the path of the uploaded file by exploiting path traversal
 The response discloses additional information like the server being an Apache server
 
 
-   ![image alt](
+   ![image alt](https://github.com/Lispectree/web-sec/blob/e9813bcb0342b97193fdfc083ade14dd6f426af2/web-security-labs/labs/file-upload/FILE%20UPLOAD%20LAB3%20PHOTO3.jpg)
+   Create a daemon file (httpd) that will make an executable file work
 
 
 
