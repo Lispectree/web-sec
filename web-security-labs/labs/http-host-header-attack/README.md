@@ -44,7 +44,11 @@ The reset token of Carlos as seen in the exploit server
 The response contains a file gotten from the host header
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/f41f55e7b5070a36e9cc375581e25fd40f5ffabf/web-security-labs/labs/http-host-header-attack/HEADER%20ATTACK%20LAB2%20PHOTO2.jpg)
+Add another header in the request and notice that the file has been manipulated 
+Add your exploit server 
+Add a payload in the exploit server that gets user cookie
+Save it in the cache
 
 
 ## Lab 3 — Routing-based SSRF (IP brute-force via Host header)
@@ -59,11 +63,7 @@ The response contains a file gotten from the host header
 4. From the admin panel, note the delete user form's CSRF token and session cookie. Craft a request to `/admin/delete` including the CSRF token and `username=carlos`, convert it to POST if needed, and send it to delete Carlos.
 5. Confirm Carlos is deleted to solve the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* http-host-header-attack_routing-ssrf_step1.png
-* http-host-header-attack_routing-ssrf_step2.png
-* http-host-header-attack_routing-ssrf_step3.png
+   ![image alt](
 
 
 ## Lab 4 — Host validation bypass via connection state attack
