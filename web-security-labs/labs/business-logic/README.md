@@ -38,7 +38,11 @@ The price is client controlled and can be reduced to any price
 4. Apply both codes, alternating between them to bypass the single-use rule.
 5. Keep reusing the codes until the total is below your store credit, then place the order.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/6cd527c807c701226c9871142c7e48d1589805cc/web-security-labs/labs/business-logic/BUS%20LOGIC%20photo1%20lab2.jpg)
+The first coupon
+
 ![image alt](
+
 
 
 
