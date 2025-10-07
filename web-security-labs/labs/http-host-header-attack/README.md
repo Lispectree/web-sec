@@ -40,6 +40,10 @@ The reset token of Carlos as seen in the exploit server
 4. In Repeater add a second `Host` header with your exploit server domain and resend until the response shows your exploit URL and `X-Cache: hit` (cached). Open the cached URL in a browser to confirm the alert triggers.
 5. Replay as needed to keep the cache poisoned until the victim visits the page and the lab is solved.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/52026ba5a656284c21ae5521fb24d1259699b252/web-security-labs/labs/http-host-header-attack/HEADER%20ATTACK%20LAB2%20PHOTO1.jpg)
+The response contains a file gotten from the host header
+
+
 ![image alt](
 
 
