@@ -46,7 +46,9 @@ The payload that gets the api key of Carlos doesn’t execute
 Indicating that the server doesn’t execute files that are uploaded by the client
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/1abe727876de4b8a56d5675b01d1bacb5ba52dd2/web-security-labs/labs/file-upload/FILE%20UPLOAD%20LAB2%20PHOTO2.jpg)
+Change the path of the uploaded file by exploiting path traversal
+
 
 ## Lab 3 — Web Shell Upload via Extension Blacklist Bypass
 
@@ -60,11 +62,9 @@ Indicating that the server doesn’t execute files that are uploaded by the clie
 4. Rename exploit.php to exploit.l33t and upload it.
 5. GET exploit.l33t in Burp Repeater to read the secret and submit it.
 
-*Images (placeholders — add 2–3 screenshots):*
+   ![image alt](
 
-* file\_upload\_extension\_bypass\_step1.png
-* file\_upload\_extension\_bypass\_step2.png
-* file\_upload\_extension\_bypass\_step3.png
+
 
 
 
@@ -80,9 +80,5 @@ Indicating that the server doesn’t execute files that are uploaded by the clie
 4. GET exploit.php in Repeater and observe the secret.
 5. Submit the secret to finish the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
 
-* file\_upload\_obfuscation\_step1.png
-* file\_upload\_obfuscation\_step2.png
-* file\_upload\_obfuscation\_step3.png
 
