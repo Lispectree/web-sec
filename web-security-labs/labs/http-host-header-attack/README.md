@@ -23,7 +23,8 @@ Use that account we want to get the reset token as the forgot password
 And input our exploit server on it
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/4c83cb1aef30510695156806701e2fc2877ab93c/web-security-labs/labs/http-host-header-attack/HEADER%20ATTACK%20LAB1%20PHOTO3.jpg)
+The reset token of Carlos as seen in the exploit server
 
 ---
 
@@ -39,12 +40,7 @@ And input our exploit server on it
 4. In Repeater add a second `Host` header with your exploit server domain and resend until the response shows your exploit URL and `X-Cache: hit` (cached). Open the cached URL in a browser to confirm the alert triggers.
 5. Replay as needed to keep the cache poisoned until the victim visits the page and the lab is solved.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* http-host-header-attack_ambiguous-requests_step1.png
-* http-host-header-attack_ambiguous-requests_step2.png
-* http-host-header-attack_ambiguous-requests_step3.png
-
+![image alt](
 
 
 ## Lab 3 — Routing-based SSRF (IP brute-force via Host header)
