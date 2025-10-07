@@ -53,6 +53,10 @@ Instead of not found as shown in others
 Indicating this endpoint is a hidden graphql endpoint
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/952208ee8fcd0e83a7c7fd27236c0f6598657589/web-security-labs/labs/graphql-vulnerabilities/GRAPHQL%20LAB2%20PHOTO2.jpg)
+URL encode the request
+
+
 ![image alt](
 
 
@@ -69,9 +73,5 @@ Indicating this endpoint is a hidden graphql endpoint
 5. Inspect the response to find the alias with `success: true`.
 6. Log in with the discovered password to solve the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* graphql_bruteforce_step1.png
-* graphql_bruteforce_step2.png
-* graphql_bruteforce_step3.png
+![image alt](
 
