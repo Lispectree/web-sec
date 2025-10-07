@@ -36,6 +36,10 @@ Change that admin to true and edit the session cookie
 4. Replace your session cookie with the modified encoded object in Repeater and resend the request.
 5. The server will deserialize the object and the destructor will delete Carlos's file — confirm the file is gone to solve the lab.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/059caaa2d4ed7d87647d73f38daf8fc45e83c96a/web-security-labs/labs/insecure-deserialization/INSECURE%20LAB2%20PHOTO1.jpg)
+Account login page discloses presence of a php file
+
+
 ![image alt](
 ## Lab 3 — Exploiting Ruby deserialization using a documented gadget chain
 
