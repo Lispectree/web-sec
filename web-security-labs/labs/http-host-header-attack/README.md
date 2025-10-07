@@ -71,8 +71,11 @@ Save it in the cache
    Use intruder to find the internal ip address
 
 
-      ![image alt](
+      ![image alt](https://github.com/Lispectree/web-sec/blob/d6cbd75f2c3b4c2a6d1e114d03d9348b0388cbbe/web-security-labs/labs/http-host-header-attack/HEADER%20ATTACK%20LAB3%20PHOTO3.jpg)
+   The status code of 200 indicate it is the internal ip
 
+
+      ![image alt](
 ## Lab 4 — Host validation bypass via connection state attack
 
 *What this teaches:* **How reusing a single connection (keep-alive) with carefully ordered requests can bypass Host-based routing checks.**
