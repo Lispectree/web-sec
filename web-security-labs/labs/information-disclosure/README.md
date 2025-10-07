@@ -49,7 +49,8 @@ It shows in the response that your ip address is being checked
 Change it you an internal ip address and use get request to access the admin page
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/9489968d80f297eeb94870dc9ea1faa6f807610f/web-security-labs/labs/information-disclosure/INFORMATION%20LAB2%20PHOTO3.jpg)
+Delete the user and solve the lab
 
 
 
