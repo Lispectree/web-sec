@@ -22,7 +22,8 @@ The upload file functionality
 The php file was uploaded to this path
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/0f169bec9b759024c56916d465368b664f04a384/web-security-labs/labs/file-upload/FILE%20UPLOAD%20LAB1%20PHOTO3.jpg)
+Load that contents
 
 
 
