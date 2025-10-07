@@ -15,12 +15,16 @@ GraphQL APIs are flexible and powerful, but misconfigurations or insufficient ac
 3. Send the `/graphql/v1` POST request to Repeater.
 4. In the GraphQL tab, add the `postPassword` field to the query for post ID 3.
 5. Send the request and copy the `postPassword` from the response. Submit it to solve the lab.
+![image alt](https://github.com/Lispectree/web-sec/blob/bb6883e86fb80e91631886e7aa6d4081b323c1aa/web-security-labs/labs/graphql-vulnerabilities/GRAPHQL%20LAB1%20PHOTO1.jpg)
+After trying multiple graphql endpoints it showed 
+“Method not allowed”
+Instead of “not found”
+Which is evidence of this endpoint existing
 
-*Images (placeholders — add 2–3 screenshots):*
 
-* graphql_hidden_post_step1.png
-* graphql_hidden_post_step2.png
-* graphql_hidden_post_step3.png
+![image alt](
+
+
 
 ---
 
