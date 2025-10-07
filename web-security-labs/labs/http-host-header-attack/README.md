@@ -67,7 +67,12 @@ Save it in the cache
    Admin page is not found
 
 
-      ![image alt](
+      ![image alt](https://github.com/Lispectree/web-sec/blob/4026257e97a71f634150179f4bb7dc3befb5d283/web-security-labs/labs/http-host-header-attack/HEADER%20ATTACK%20LAB3%20PHOTO2.jpg)
+   Use intruder to find the internal ip address
+
+
+         ![image alt](
+   
 
 
 ## Lab 4 — Host validation bypass via connection state attack
