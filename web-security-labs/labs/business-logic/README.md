@@ -23,7 +23,6 @@ But your balance won’t be able to purchase it
 The add to cart request of the jacket
 The price is client controlled and can be reduced to any price
 
-![image alt](
 
 
 
@@ -39,12 +38,7 @@ The price is client controlled and can be reduced to any price
 4. Apply both codes, alternating between them to bypass the single-use rule.
 5. Keep reusing the codes until the total is below your store credit, then place the order.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* business\_logic\_coupon\_bypass\_step1.png
-* business\_logic\_coupon\_bypass\_step2.png
-* business\_logic\_coupon\_bypass\_step3.png
-
+![image alt](
 
 
 
