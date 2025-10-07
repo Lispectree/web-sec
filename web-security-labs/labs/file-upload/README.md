@@ -14,7 +14,12 @@ File upload vulnerabilities occur when an application allows users to upload fil
 4. Upload this PHP file as your avatar.
 5. Use Burp Repeater to GET the PHP file and observe that the server executes it. Submit the secret to complete the lab.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/c10e6e163d1717c993e22c517da142ea97904a11/web-security-labs/labs/file-upload/FILE%20UPLOAD%20LAB1%20PHOTO1.jpg)
+The upload file functionality
+
+
 ![image alt](
+
 
 ## Lab 2 — Web Shell Upload via Path Traversal
 
