@@ -22,7 +22,9 @@ The lab instructions
 The number value indicate numbers are attached to the product
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/1e4905c8dbfac1cc4560f4890eb4d0df143a5488/web-security-labs/labs/information-disclosure/INFORMATION%20LAB1%20PHOTO3.jpg)
+After adding a randomized string 
+It brings out errror message and discloses additional information
 
 ## Lab 2 — Authentication Bypass via Information Disclosure
 
@@ -36,10 +38,9 @@ The number value indicate numbers are attached to the product
 4. Go to the home page and check admin access.
 5. Complete the lab task.
 
-*Images (placeholders — add 2–3 screenshots):*
 
-* info\_disclosure\_header\_step1.png
-* info\_disclosure\_header\_step2.png
-* info\_disclosure\_header\_step3.png
+![image alt](
+
+
 
 
