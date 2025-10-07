@@ -39,7 +39,12 @@ It brings out errror message and discloses additional information
 5. Complete the lab task.
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/770296d9912cb56b826cddbb54f09e2f49ac3584/web-security-labs/labs/information-disclosure/INFORMATION%20LAB2%20PHOTO1.jpg)
+The lab instructions
+
+
 ![image alt](
+
 
 
 
