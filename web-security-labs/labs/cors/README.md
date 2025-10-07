@@ -45,5 +45,6 @@ Evidence of CORS usage
 Origin of null are accepted
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/feaf54decd86f672cf12a216eaba6d8a68d83b81/web-security-labs/labs/cors/CORS%20LAB2%20PHOTO3.jpg)
+Craft an exploit
 
