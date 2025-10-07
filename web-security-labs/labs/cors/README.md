@@ -23,7 +23,8 @@ Account details response contains api key that is necessary in logging in
 Craft an exploit that gets the api key from the administrator upon clicking on the payload delivered
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/2ef75d7070d20e615a94c27a2b7324274ac9db41/web-security-labs/labs/cors/CORS%20LAB1%20PHOTO3.jpg)
+The api key of the administrator
 ## Lab 2 — CORS vulnerability with trusted null origin
 
 **What this teaches:** How trusting the `null` origin (e.g., from sandboxed iframes) can let attackers read protected responses.
@@ -36,9 +37,4 @@ Craft an exploit that gets the api key from the administrator upon clicking on t
 4. View the exploit and confirm the API key ends up on the exploit server log page, then Deliver exploit to victim.
 5. Retrieve the victim’s API key from the Access log and submit it to solve the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* cors_trusted-null-origin_step1.png
-* cors_trusted-null-origin_step2.png
-* cors_trusted-null-origin_step3.png
-
+![image alt](
