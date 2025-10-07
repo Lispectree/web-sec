@@ -79,7 +79,9 @@ And complete the lab
 Shows that a brute force protection is present
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/a1faa3bad24cc9b9c5ef50e84e12ef63858aeccd/web-security-labs/labs/graphql-vulnerabilities/GRAPHQL%20LAB3%20PHOTO2.jpg)
+After using aliases 
+We are able to access the login details using brute force
 
 
 
