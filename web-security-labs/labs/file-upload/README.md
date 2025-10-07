@@ -41,12 +41,7 @@ Load that contents
 4. URL-encode the traversal sequence (..%2f) and forward the request again.
 5. GET the file in the browser and submit the secret.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* file\_upload\_path\_traversal\_step1.png
-* file\_upload\_path\_traversal\_step2.png
-* file\_upload\_path\_traversal\_step3.png
-
+![image alt](
 
 ## Lab 3 — Web Shell Upload via Extension Blacklist Bypass
 
