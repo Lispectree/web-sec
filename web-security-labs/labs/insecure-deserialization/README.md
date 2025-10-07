@@ -21,7 +21,8 @@ Lab instructions
 The decoded session cookie contains parameters that are predictable
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/299d0e30582e55e2726a19c08fdf177255f004fe/web-security-labs/labs/insecure-deserialization/INSECURE%20LAB1%20PHOTO3.jpg)
+Change that admin to true and edit the session cookie
 
 ## Lab 2 — Arbitrary object injection in PHP
 
@@ -35,12 +36,7 @@ The decoded session cookie contains parameters that are predictable
 4. Replace your session cookie with the modified encoded object in Repeater and resend the request.
 5. The server will deserialize the object and the destructor will delete Carlos's file — confirm the file is gone to solve the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* insecure-deserialization_arbitrary_object_injection_step1.png
-* insecure-deserialization_arbitrary_object_injection_step2.png
-* insecure-deserialization_arbitrary_object_injection_step3.png
-
+![image alt](
 ## Lab 3 — Exploiting Ruby deserialization using a documented gadget chain
 
 **What this teaches:** How to reuse a public Ruby gadget chain to run commands when a Ruby object is deserialized.
