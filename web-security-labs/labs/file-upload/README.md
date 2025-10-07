@@ -41,6 +41,11 @@ Load that contents
 4. URL-encode the traversal sequence (..%2f) and forward the request again.
 5. GET the file in the browser and submit the secret.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/f207f04b8baecce883c29f7dc94890073ddb69dc/web-security-labs/labs/file-upload/FILE%20UPLOAD%20LAB2%20PHOTO1.jpg)
+The payload that gets the api key of Carlos doesn’t execute 
+Indicating that the server doesn’t execute files that are uploaded by the client
+
+
 ![image alt](
 
 ## Lab 3 — Web Shell Upload via Extension Blacklist Bypass
