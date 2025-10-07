@@ -16,6 +16,7 @@ CORS (Cross-Origin Resource Sharing) controls whether a web page from one origin
 
 
 ![image alt](https://github.com/Lispectree/web-sec/blob/e96b6e212cf3cfe123659693eabcb3ff77857837/web-security-labs/labs/cors/CORS%20LAB1%20PHOTO1.jpg)
+
 Account details response contains api key that is necessary in logging in
 
 
