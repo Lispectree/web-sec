@@ -14,11 +14,8 @@ CORS (Cross-Origin Resource Sharing) controls whether a web page from one origin
 4. View the exploit to run it locally and confirm the API key appears on the log page, then Deliver exploit to victim.
 5. Open Access log, copy the victim’s API key and submit it to solve the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
 
-* cors_basic-origin-reflection_step1.png
-* cors_basic-origin-reflection_step2.png
-* cors_basic-origin-reflection_step3.png
+![image alt](
 
 ## Lab 2 — CORS vulnerability with trusted null origin
 
