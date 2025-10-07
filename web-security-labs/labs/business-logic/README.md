@@ -66,7 +66,9 @@ Use the coupon alternatively to get a balance of $0 and purchase it
 ![image alt](https://github.com/Lispectree/web-sec/blob/6f05485f85f1a2d676c031fed938e6c2b9683b83/web-security-labs/labs/business-logic/BUS%20LOGIC%20photo1%20lab3.jpg)
 After logging in you are expected to select a role before you are granted access to
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/fe3337010d2e7b42430f8674d053ac21dee83827/web-security-labs/labs/business-logic/BUS%20LOGIC%20photo2%20lab3.jpg)
+Put on your intercept and drop the role selector request
+This will give you access to the admin panel
 
 
 
