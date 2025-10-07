@@ -18,6 +18,11 @@ Host header attacks abuse how a web application or its middleware uses the HTTP 
 The lab instructions
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/403bc6dbd94c096903d67545fb5c8cdbcdc66760/web-security-labs/labs/http-host-header-attack/HEADER%20ATTACK%20LAB1%20PHOTO2.jpg)
+Use that account we want to get the reset token as the forgot password 
+And input our exploit server on it
+
+
 ![image alt](
 
 ---
