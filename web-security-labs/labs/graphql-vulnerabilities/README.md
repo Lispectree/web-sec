@@ -27,7 +27,8 @@ Change the request to POST and add a json file as instructed
 Preferably to read the schema
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/f42c348e194cc353e01be0e4dbaa15d635fbf69a/web-security-labs/labs/graphql-vulnerabilities/GRAPHQL%20LAB1%20PHOTO3.jpg)
+Add a post password query that was discovered in the schema
 
 
 
@@ -46,11 +47,7 @@ Preferably to read the schema
 4. Explore the schema to identify the `getUser` query and `deleteOrganizationUser` mutation.
 5. Send a mutation with `id=3` to delete the user `carlos` and solve the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* graphql_hidden_endpoint_step1.png
-* graphql_hidden_endpoint_step2.png
-* graphql_hidden_endpoint_step3.png
+![image alt](
 
 
 ---
