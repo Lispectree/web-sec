@@ -18,7 +18,14 @@ File upload vulnerabilities occur when an application allows users to upload fil
 The upload file functionality
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/b0c57815d6b9c77680be2bef5d531fe2a0e4323a/web-security-labs/labs/file-upload/FILE%20UPLOAD%20LAB1%20PHOTO2.jpg)
+The php file was uploaded to this path
+
+
 ![image alt](
+
+
+
 
 
 ## Lab 2 — Web Shell Upload via Path Traversal
