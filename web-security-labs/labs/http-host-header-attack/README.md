@@ -63,7 +63,11 @@ Save it in the cache
 4. From the admin panel, note the delete user form's CSRF token and session cookie. Craft a request to `/admin/delete` including the CSRF token and `username=carlos`, convert it to POST if needed, and send it to delete Carlos.
 5. Confirm Carlos is deleted to solve the lab.
 
-   ![image alt](
+   ![image alt](https://github.com/Lispectree/web-sec/blob/40291f1eb1f381c2ec269b0a4753aeecfdb9ab64/web-security-labs/labs/http-host-header-attack/HEADER%20ATTACK%20LAB3%20PHOTO1.jpg)
+   Admin page is not found
+
+
+      ![image alt](
 
 
 ## Lab 4 — Host validation bypass via connection state attack
