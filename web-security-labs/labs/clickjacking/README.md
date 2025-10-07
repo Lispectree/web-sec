@@ -30,13 +30,10 @@ The payload which we will put the underneath the account page
 4. Change the decoy text to "Click me", store the exploit and deliver it to the victim.
 5. When the victim clicks, the hidden form submits and the lab is solved.
 
-*Images (placeholders — add 2–3 screenshots):*
 
-* clickjacking_frame_buster_step1.png
-* clickjacking_frame_buster_step2.png
-* clickjacking_frame_buster_step3.png
+![image alt](https://github.com/Lispectree/web-sec/blob/54a2535e93107cfb444d1024193568e2d23b0a4c/web-security-labs/labs/clickjacking/CLICKJACKING%20LAB2%20PHOTO1.jpg)
 
-*Quick note:* Frame-busting defenses exist — use labs to learn how to defend, not attack real sites.
+
 
 ## Lab 3 — Multistep clickjacking
 
@@ -49,11 +46,5 @@ The payload which we will put the underneath the account page
 3. Set the positions for the two decoy elements so the first click hits "Delete account" and the second hits the confirmation "Yes" button.
 4. Test alignment with low opacity, then change the decoy text to "Click me first" and "Click me next", store the exploit, and deliver it to the victim.
 5. When the victim clicks both decoys in order, the account is deleted and the lab is solved.
-
-*Images (placeholders — add 2–3 screenshots):*
-
-* clickjacking_multistep_step1.png
-* clickjacking_multistep_step2.png
-* clickjacking_multistep_step3.png
 
 
