@@ -61,4 +61,8 @@ Delete the user as instructed and solve the lab
  JWT token is present in the highlighted request
 
 
-  ![image alt](
+  ![image alt](https://github.com/Lispectree/web-sec/blob/2bc3dc53a6cff05f70fb2ac7a53dca485d5bbd29/web-security-labs/labs/jwt/JWT%20LAB3%20PHOTO2.jpg)
+  Post a payload in the exploit server to get the token of the target
+
+
+ ![image alt](
