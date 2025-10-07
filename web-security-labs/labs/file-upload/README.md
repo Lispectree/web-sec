@@ -62,6 +62,10 @@ Change the path of the uploaded file by exploiting path traversal
 4. Rename exploit.php to exploit.l33t and upload it.
 5. GET exploit.l33t in Burp Repeater to read the secret and submit it.
 
+   ![image alt](https://github.com/Lispectree/web-sec/blob/4b9dc8546d3f54b0f28d8b87d620f4dc6ba529c3/web-security-labs/labs/file-upload/FILE%20UPLOAD%20LAB3%20PHOTO1.jpg)
+   Php files are not allowed to be uploaded
+
+
    ![image alt](
 
 
