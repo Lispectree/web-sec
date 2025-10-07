@@ -14,12 +14,7 @@ Business logic vulnerabilities happen when an application lets users bypass rule
 4. Try using a negative number to reduce the quantity. Use a bigger negative number to make the cart go below zero.
 5. Add another item and use negative quantities to lower the total price below your store credit. Place the order to finish.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* business\_logic\_cart\_manipulate\_step1.png
-* business\_logic\_cart\_manipulate\_step2.png
-* business\_logic\_cart\_manipulate\_step3.png
-
+![image alt](
 
 
 ## Lab 2 — Flawed enforcement of business rules
