@@ -43,6 +43,12 @@ It brings out errror message and discloses additional information
 The lab instructions
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/7686607ee70ac1f9a598c21a6b933615774fbaf6/web-security-labs/labs/information-disclosure/INFORMATION%20LAB2%20PHOTO2.jpg)
+Using Trace method
+It shows in the response that your ip address is being checked
+Change it you an internal ip address and use get request to access the admin page
+
+
 ![image alt](
 
 
