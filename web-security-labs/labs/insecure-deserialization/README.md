@@ -66,6 +66,7 @@ Draft a session token and delete morale.txt file
    The decoded cookie shows username
 
 
-      ![image alt](
+      ![image alt](https://github.com/Lispectree/web-sec/blob/6f873c9d312d2ba6d879a2641cd47a5a87689368/web-security-labs/labs/insecure-deserialization/INSECURE%20LAB3%20PHOTO3.jpg)
+   Exploit
 
 
