@@ -18,6 +18,10 @@ Information disclosure vulnerabilities happen when an application accidentally r
 The lab instructions
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/337664eac720b6ddd180114eaa84192398b27466/web-security-labs/labs/information-disclosure/INFORMATION%20LAB1%20PHOTO2.jpg)
+The number value indicate numbers are attached to the product
+
+
 ![image alt](
 
 ## Lab 2 — Authentication Bypass via Information Disclosure
