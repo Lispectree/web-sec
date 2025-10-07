@@ -17,7 +17,7 @@ Clickjacking tricks a user into clicking something on a trusted site by hiding t
 ![image alt](https://github.com/Lispectree/web-sec/blob/54b1c23748d32499e6f705f15fef1c76cc3c22b6/web-security-labs/labs/clickjacking/CLICKJACKING%20LAB1%20PHOTO1.jpg)
 The payload which we will put the underneath the account page
 
-![image alt](
+
 ## Lab 2 — Clickjacking with a frame buster script
 
 **What this teaches:** How using sandboxing and careful framing can bypass simple frame-buster scripts.
