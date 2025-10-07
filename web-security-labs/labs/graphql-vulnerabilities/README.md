@@ -47,10 +47,14 @@ Add a post password query that was discovered in the schema
 4. Explore the schema to identify the `getUser` query and `deleteOrganizationUser` mutation.
 5. Send a mutation with `id=3` to delete the user `carlos` and solve the lab.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/53b3f6c5f5be26f63dbb68b8cba6f39ae668f6e1/web-security-labs/labs/graphql-vulnerabilities/GRAPHQL%20LAB2%20PHOTO1.jpg)
+This endpoint shows query not present 
+Instead of not found as shown in others
+Indicating this endpoint is a hidden graphql endpoint
+
+
 ![image alt](
 
-
----
 
 ## Lab 3 — Bypassing GraphQL brute force protections
 
