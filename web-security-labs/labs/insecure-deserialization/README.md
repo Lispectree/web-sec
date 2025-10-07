@@ -58,6 +58,10 @@ Draft a session token and delete morale.txt file
 3. Run the modified script locally and copy the Base64-encoded output it produces.
 4. In Burp Repeater, replace your session cookie with the Base64 payload (URL-encode it), then resend the request.
 5. Confirm Carlos's file has been deleted to solve the lab.
+   ![image alt](https://github.com/Lispectree/web-sec/blob/27e356906d880696bc9d3ea88579fa8bb38fa906/web-security-labs/labs/insecure-deserialization/INSECURE%20LAB3%20PHOTO1.jpg)
+   Lab instructions
+
+
    ![image alt](
 
 
