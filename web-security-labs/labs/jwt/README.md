@@ -39,7 +39,11 @@ Delete the user as instructed and solve the lab
    The color shows presence of JWT token
 
 
-  ![image alt](
+  ![image alt](https://github.com/Lispectree/web-sec/blob/c0f67cf97d4666a4e54b001835851d396b1710b1/web-security-labs/labs/jwt/JWT%20LAB2%20PHOTO2.jpg)
+  Admin page can’t be accessed
+
+
+ ![image alt](
 
 ## Lab 3 — JWT authentication bypass via JKU header injection
 
