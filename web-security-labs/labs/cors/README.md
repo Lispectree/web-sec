@@ -19,6 +19,10 @@ CORS (Cross-Origin Resource Sharing) controls whether a web page from one origin
 Account details response contains api key that is necessary in logging in
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/ba847991d1994179bf781c71dd7195f3328bd6ed/web-security-labs/labs/cors/CORS%20LAB1%20PHOTO2.jpg)
+Craft an exploit that gets the api key from the administrator upon clicking on the payload delivered
+
+
 ![image alt](
 ## Lab 2 — CORS vulnerability with trusted null origin
 
