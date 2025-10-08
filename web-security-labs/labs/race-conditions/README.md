@@ -60,5 +60,8 @@ Send all the request in parallel
 4. Change the username in one request to target another user, like carlos.
 5. Use the shared token to reset the other user's password and complete the lab.
 
-  ![image alt](
+  ![image alt](https://github.com/Lispectree/web-sec/blob/411126e5fc1e698baf4d3a1d6fcd920c9729c912/web-security-labs/labs/race-conditions/RACE%20LAB3%20PHOTO1.jpg)
+  If you request for the forgot password functionality of two account 
+It generates same token
+Use that to access Carlos account
 
