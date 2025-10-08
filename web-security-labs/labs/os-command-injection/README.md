@@ -20,7 +20,8 @@ How adding a command separator and a small system command to an input can make t
 Lab instructions
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/0f72540f9e44f69416517689bf768100d6745108/web-security-labs/labs/os-command-injection/OS%20LAB1%20PHOTO2.jpg)
+The command to generate the use
 
 ---
 
@@ -36,13 +37,7 @@ How to run a command that writes its output to a file, then request that file to
 2. Send that feedback request so the server executes the command and writes the file.
 3. Intercept the request that loads a product image, change the `filename` parameter to `output.txt`, and send it. The response will contain the contents of `output.txt` (the command output), showing the injection worked.
 
-**Images (placeholders — add 2–3 screenshots):**
-
-* `images/os_cmd_blind_step1.png`
-* `images/os_cmd_blind_step2.png`
-* `images/os_cmd_blind_step3.png`
-
-**Quick note:** Writing files and running commands on servers can be destructive; only perform these steps in authorized lab environments.
+![image alt](
 
 ---
 
