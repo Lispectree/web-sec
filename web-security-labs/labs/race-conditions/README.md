@@ -14,12 +14,11 @@ Race conditions occur when an application does not properly handle multiple oper
 4. Send the requests in parallel and observe that the discount is applied multiple times.
 5. Add the leather jacket and repeat to reduce the total below your store credit, then complete the purchase.
 
-*Images (placeholders — add 2–3 screenshots):*
+![image alt](https://github.com/Lispectree/web-sec/blob/f41a5f6289c1781a414abd7e26e9b2368f7b5128/web-security-labs/labs/race-conditions/RACE%20LAB1%20PHOTO1.jpg)
+After logging in it shows you have a promo code
 
-* race\_conditions\_limit\_overrun\_step1.png
-* race\_conditions\_limit\_overrun\_step2.png
-* race\_conditions\_limit\_overrun\_step3.png
 
+![image alt](
 
 ## Lab 2 — Multi-endpoint Race Conditions
 
