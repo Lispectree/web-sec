@@ -8,7 +8,7 @@ Path Traversal happens when a website lets you request files by name (for exampl
 
 ## Lab 1 — File path traversal (simple case)
 
-**What this teaches (one line):**
+**What this teaches :**
 How a basic `../` sequence in a filename can let you read files outside the intended folder.
 
 **Simple beginner walkthrough:**
@@ -16,15 +16,12 @@ How a basic `../` sequence in a filename can let you read files outside the inte
 1. Use Burp Suite to capture the request that fetches a product image.
 2. Edit the filename parameter to: `../../../etc/passwd`.
 3. Send the modified request and check the response — if it contains `/etc/passwd` contents, the server returned a file it shouldn't.
-
-**Images (placeholders — add 2–3 screenshots):**
-
-* `images/path_traversal_simple_step1.png`
-* `images/path_traversal_simple_step2.png`
-* `images/path_traversal_simple_step3.png`
+![image alt](https://github.com/Lispectree/web-sec/blob/df6bf18f5357fd39d9093d211e26a3d7e8be0187/web-security-labs/labs/path-traversal/PATH%20LAB1%20PHOTO1.jpg)
+This request gets a jpg file from the server
 
 
----
+![image alt](
+
 
 ## Lab 2 — Traversal sequences stripped non-recursively
 
