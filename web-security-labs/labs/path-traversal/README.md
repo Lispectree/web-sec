@@ -40,7 +40,9 @@ How naive filters that look for exact `../` sequences can be bypassed by slightl
 The previous method doesn’t work
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/e7e43c5188c827d97d0913f668cf03827b81432c/web-security-labs/labs/path-traversal/PATH%20LAB2%20PHOTO2.jpg)
+We add another path traversal 
+Because it is stripped off non recursively
 
 ---
 
@@ -55,13 +57,9 @@ How double-encoding or extra URL decoding can bypass checks that don’t fully n
 2. Use a double-encoded traversal value such as: `..%252f..%252f..%252fetc/passwd`.
 3. Send the modified request; if `/etc/passwd` is returned, the server decoded the value and allowed traversal despite the filter.
 
-**Images (placeholders — add 2–3 screenshots):**
 
-* `images/path_traversal_doubleencode_step1.png`
-* `images/path_traversal_doubleencode_step2.png`
-* `images/path_traversal_doubleencode_step3.png`
+![image alt](
 
-**Quick note:** Normalizing (decode then check) prevents this bypass.
 
 ---
 
