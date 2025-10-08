@@ -18,7 +18,8 @@ Prototype pollution happens when attacker-controlled input can modify built-in J
 The search url can be used to contaminate the prototype
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/c5d459e90d3d79d10f366b51a9d81f3e3797091b/web-security-labs/labs/prototype-pollution/PROTO%20LAB1%20PHOTO2.jpg)
+
 
 ## Lab 2 — DOM XSS via client-side prototype pollution (transport_url property)
 
