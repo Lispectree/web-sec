@@ -21,6 +21,10 @@ After logging in it shows you have a promo code
 ![image alt](https://github.com/Lispectree/web-sec/blob/8be78f30fc21ce00b15040b16cb9dc61b698297b/web-security-labs/labs/race-conditions/RACE%20LAB1%20PHOTO2.jpg)
 Try and acquire a product well above your balance by trying to make use of the promo code multiple times simultaneously through race conditions
 
+
+![image alt](https://github.com/Lispectree/web-sec/blob/6c0f37010d904f7da6a1f911991d56dc6e912234/web-security-labs/labs/race-conditions/RACE%20LAB1%20PHOTO3.jpg)
+Send all the request in parallel
+
 ## Lab 2 — Multi-endpoint Race Conditions
 
 **What this teaches:** How exploiting timing across multiple endpoints can bypass purchase restrictions.
@@ -32,12 +36,8 @@ Try and acquire a product well above your balance by trying to make use of the p
 3. In Burp Repeater, send the requests in parallel instead of sequentially.
 4. Observe if the checkout succeeds even with insufficient funds.
 5. Repeat with the leather jacket until the purchase completes successfully.
+   ![image alt](
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* race\_conditions\_multi\_endpoint\_step1.png
-* race\_conditions\_multi\_endpoint\_step2.png
-* race\_conditions\_multi\_endpoint\_step3.png
 
 ## Lab 3 — Exploiting Time-Sensitive Vulnerabilities
 
