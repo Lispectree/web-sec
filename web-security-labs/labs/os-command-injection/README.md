@@ -41,7 +41,13 @@ How to run a command that writes its output to a file, then request that file to
 The email section is vulnerable to command injection
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/835726c849f8d1178228f53565698feeef773b77/web-security-labs/labs/os-command-injection/OS%20LAB2%20PHOTO2.jpg)
+But it doesn’t disclose anything 
+So we test it by telling the server to sleep for 5sec before responding
+
+
 ![image alt](
+
 
 ---
 
