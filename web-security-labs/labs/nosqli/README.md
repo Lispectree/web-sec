@@ -14,12 +14,11 @@ NoSQL Injection (NoSQLi) happens when an application improperly handles user inp
 4. Submit a condition that always evaluates to true and observe that additional products are returned.
 5. Open the response in the browser to verify you can see unreleased products.
 
-*Images (placeholders — add 2–3 screenshots):*
+![iimage alt](https://github.com/Lispectree/web-sec/blob/253d2075a3f816d1f91a4a6ace76704293517a3a/web-security-labs/labs/nosqli/NOSQLI%20LAB1%20PHOTO1.jpg)
+The error message after adding double quotes
 
-* nosqli\_detect\_step1.png
-* nosqli\_detect\_step2.png
-* nosqli\_detect\_step3.png
 
+![iimage alt](
 
 ## Lab 2 — Exploiting NoSQL Injection to Extract Data
 
