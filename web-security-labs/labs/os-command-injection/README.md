@@ -46,7 +46,8 @@ But it doesn’t disclose anything
 So we test it by telling the server to sleep for 5sec before responding
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/8018894fefcd1857c882fe282ee117d99a2f7858/web-security-labs/labs/os-command-injection/OS%20LAB2%20PHOTO3.jpg)
+We that use redirection to disclose the whoami command inside a txt file
 
 
 ---
