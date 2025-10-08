@@ -40,7 +40,11 @@ Send all the request in parallel
    The lab
 
 
- ![image alt](
+ ![image alt](https://github.com/Lispectree/web-sec/blob/7f9b0076a3434e24c992fdb961b7adfbf9039743/web-security-labs/labs/race-conditions/RACE%20LAB2%20PHOTO2.jpg)
+ Send the cart and check out request simultaneously
+
+
+  ![image alt](
 
 
 ## Lab 3 — Exploiting Time-Sensitive Vulnerabilities
