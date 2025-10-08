@@ -66,7 +66,8 @@ Craft an exploit on the exploit server
 Deliver a script to the victim
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/d14920352c38f9a71faa995e75ba17bf49797fa8/web-security-labs/labs/oauth-authentication/OATH%20LAB3%20PHOTO3.jpg)
+The access token of the victim
 
 
 
