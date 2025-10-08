@@ -63,7 +63,8 @@ The script for the prototype pollution being showed by the DOM invader
 The value of the prototype that can be polluted
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/9a2db861f912b6f538b88c731002581a4395cda9/web-security-labs/labs/prototype-pollution/PROTO%20LAB3%20PHOTO2.jpg)
+Deliver the exploit to the victim through the exploit server
 
 
 
