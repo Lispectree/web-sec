@@ -59,8 +59,11 @@ The script for the prototype pollution being showed by the DOM invader
 3. Click **Exploit** in DOM Invader to auto-generate a PoC — it should call `alert(1)` demonstrating the gadget is usable.
 4. To attack a victim, host a navigation exploit on the exploit server that points the victim to `#__proto__[hitCallback]=alert(document.cookie)` and deliver it. When the victim loads the site, the polluted `hitCallback` will execute and leak cookies — lab solved.
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/343fdc2f4b4a916b983b31b6976cecc8c02ed04b/web-security-labs/labs/prototype-pollution/PROTO%20LAB3%20PHOTO1.jpg)
+The value of the prototype that can be polluted
 
+
+![image alt](
 
 
 
