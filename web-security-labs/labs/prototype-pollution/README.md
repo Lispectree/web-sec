@@ -36,6 +36,10 @@ Use a payload to get an alert
 3. Inject `transport_url` via the query string: `/?__proto__[transport_url]=data:,alert(1);` and reload the page.
 4. Confirm an injected `<script>` tag with `src="data:,alert(1);"` appears and that `alert(1)` runs — lab solved.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/c716e53f0daa2a6c5cefa0d4381bba3db943d18e/web-security-labs/labs/prototype-pollution/PROTO%20LAB2%20PHOTO1.jpg)
+Make use of the DOM invader option
+
+
 ![image alt](
 
 
