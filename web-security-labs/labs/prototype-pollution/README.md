@@ -21,7 +21,8 @@ The search url can be used to contaminate the prototype
 ![image alt](https://github.com/Lispectree/web-sec/blob/c5d459e90d3d79d10f366b51a9d81f3e3797091b/web-security-labs/labs/prototype-pollution/PROTO%20LAB1%20PHOTO2.jpg)
 
 
-![image alt]
+![image alt](https://github.com/Lispectree/web-sec/blob/36a28e57bb99126b8be6e4e0b4f4e90b9e9f27d6/web-security-labs/labs/prototype-pollution/PROTO%20LAB1%20PHOTO3.jpg)
+Use a payload to get an alert
 
 
 ## Lab 2 — DOM XSS via client-side prototype pollution (transport_url property)
@@ -35,11 +36,7 @@ The search url can be used to contaminate the prototype
 3. Inject `transport_url` via the query string: `/?__proto__[transport_url]=data:,alert(1);` and reload the page.
 4. Confirm an injected `<script>` tag with `src="data:,alert(1);"` appears and that `alert(1)` runs — lab solved.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* prototype-pollution_transporturl_step1.png
-* prototype-pollution_transporturl_step2.png
-* prototype-pollution_transporturl_step3.png
+![image alt](
 
 
 ## Lab 3 — Client-side prototype pollution in third-party libraries (DOM Invader hitCallback)
