@@ -14,11 +14,11 @@ NoSQL Injection (NoSQLi) happens when an application improperly handles user inp
 4. Submit a condition that always evaluates to true and observe that additional products are returned.
 5. Open the response in the browser to verify you can see unreleased products.
 
-![iimage alt](https://github.com/Lispectree/web-sec/blob/253d2075a3f816d1f91a4a6ace76704293517a3a/web-security-labs/labs/nosqli/NOSQLI%20LAB1%20PHOTO1.jpg)
+![image alt](https://github.com/Lispectree/web-sec/blob/253d2075a3f816d1f91a4a6ace76704293517a3a/web-security-labs/labs/nosqli/NOSQLI%20LAB1%20PHOTO1.jpg)
 The error message after adding double quotes
 
 
-![iimage alt](https://github.com/Lispectree/web-sec/blob/92031feb56f1238c27190f29230c012678466d25/web-security-labs/labs/nosqli/NOSQLI%20LAB1%20PHOTO2.jpg)
+![image alt](https://github.com/Lispectree/web-sec/blob/92031feb56f1238c27190f29230c012678466d25/web-security-labs/labs/nosqli/NOSQLI%20LAB1%20PHOTO2.jpg)
 After adding a Boolean expression to release all the product including the unreleased one
 
 ## Lab 2 — Exploiting NoSQL Injection to Extract Data
@@ -35,10 +35,14 @@ After adding a Boolean expression to release all the product including the unrel
 6. Observe the correct characters for each position to reconstruct the administrator password.
 7. Log in as the administrator using the enumerated password to solve the lab.
 
-![iimage alt](https://github.com/Lispectree/web-sec/blob/955564d9fd1f8c0d8b57fd2bfef25a0ee3ff2d45/web-security-labs/labs/nosqli/NOSQLI%20LAB2%20PHOTO1.jpg)
+![image alt](https://github.com/Lispectree/web-sec/blob/955564d9fd1f8c0d8b57fd2bfef25a0ee3ff2d45/web-security-labs/labs/nosqli/NOSQLI%20LAB2%20PHOTO1.jpg)
 The adding of double quotation shows presence of database vulnerability
 
 
-![iimage alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/c8017169d1a4ff85060d842b3d80eedafde65d17/web-security-labs/labs/nosqli/NOSQLI%20LAB2%20PHOTO2.jpg)
+And intruder attack to determine the number of characters in the password
+
+
+![image alt](
 
 
