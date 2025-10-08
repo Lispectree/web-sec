@@ -38,6 +38,10 @@ You can change the email to any email address of your choice
 Try and add a social media after logging in
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/fdc0f68905424542174345120ab256322eebfe27/web-security-labs/labs/oauth-authentication/OATH%20LAB2%20PHOTO2.jpg)
+A code is generated to link your social media
+
+
 ![image alt](
 
 
