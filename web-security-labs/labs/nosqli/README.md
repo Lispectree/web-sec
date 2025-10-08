@@ -43,6 +43,7 @@ The adding of double quotation shows presence of database vulnerability
 And intruder attack to determine the number of characters in the password
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/55bbf582b7e6885e34c179380e9d8ea241958f1a/web-security-labs/labs/nosqli/NOSQLI%20LAB2%20PHOTO3.jpg)
+Password letter written out one by one
 
 
