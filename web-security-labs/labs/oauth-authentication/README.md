@@ -62,6 +62,10 @@ Craft an exploit on the exploit server
    The redirect url that is prone to path traversal
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/5290a9e47769e51dc42e82314760aefcfbb07a69/web-security-labs/labs/oauth-authentication/OATH%20LAB3%20PHOTO2.jpg)
+Deliver a script to the victim
+
+
 ![image alt](
 
 
