@@ -42,7 +42,8 @@ Try and add a social media after logging in
 A code is generated to link your social media
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/6c20f78abd655d35a5f3fd5b026a2b3f2997c967/web-security-labs/labs/oauth-authentication/OATH%20LAB2%20PHOTO3.jpg)
+Craft an exploit on the exploit server
 
 
 ## Lab 3 — Stealing OAuth access tokens via an open redirect
@@ -56,11 +57,8 @@ A code is generated to link your social media
 3. Find the open redirect used by the "Next post" feature and craft a malicious authorization URL that sets `redirect_uri` to the blog open-redirect which forwards to your exploit server.
 4. Host a small script on the exploit server that reads `location.hash` and sends it to your server (or logs it). Deliver the crafted authorization URL to the victim so their browser returns the token in the fragment to your exploit page.
 5. Retrieve the stolen access token from your exploit server logs, place it into the Authorization header for the `/me` request in Repeater, fetch the victim’s data (including their API key), and submit it to solve the lab.
+ 
+   ![image alt](
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* oauth-authentication_steal-token-open-redirect_step1.png
-* oauth-authentication_steal-token-open-redirect_step2.png
-* oauth-authentication_steal-token-open-redirect_step3.png
 
 
