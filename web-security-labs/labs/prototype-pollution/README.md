@@ -44,7 +44,8 @@ Make use of the DOM invader option
 The proto sources
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/e03fe994c2765a09e66551ac668fee474ab9f491/web-security-labs/labs/prototype-pollution/PROTO%20LAB2%20PHOTO3.jpg)
+The script for the prototype pollution being showed by the DOM invader
 
 
 ## Lab 3 — Client-side prototype pollution in third-party libraries (DOM Invader hitCallback)
@@ -58,11 +59,7 @@ The proto sources
 3. Click **Exploit** in DOM Invader to auto-generate a PoC — it should call `alert(1)` demonstrating the gadget is usable.
 4. To attack a victim, host a navigation exploit on the exploit server that points the victim to `#__proto__[hitCallback]=alert(document.cookie)` and deliver it. When the victim loads the site, the polluted `hitCallback` will execute and leak cookies — lab solved.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* prototype-pollution_dominvader_step1.png
-* prototype-pollution_dominvader_step2.png
-* prototype-pollution_dominvader_step3.png
+![image alt](
 
 
 
