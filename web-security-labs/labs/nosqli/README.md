@@ -35,5 +35,10 @@ After adding a Boolean expression to release all the product including the unrel
 6. Observe the correct characters for each position to reconstruct the administrator password.
 7. Log in as the administrator using the enumerated password to solve the lab.
 
+![iimage alt](https://github.com/Lispectree/web-sec/blob/955564d9fd1f8c0d8b57fd2bfef25a0ee3ff2d45/web-security-labs/labs/nosqli/NOSQLI%20LAB2%20PHOTO1.jpg)
+The adding of double quotation shows presence of database vulnerability
+
+
 ![iimage alt](
+
 
