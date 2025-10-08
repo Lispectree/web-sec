@@ -18,7 +18,8 @@ NoSQL Injection (NoSQLi) happens when an application improperly handles user inp
 The error message after adding double quotes
 
 
-![iimage alt](
+![iimage alt](https://github.com/Lispectree/web-sec/blob/92031feb56f1238c27190f29230c012678466d25/web-security-labs/labs/nosqli/NOSQLI%20LAB1%20PHOTO2.jpg)
+After adding a Boolean expression to release all the product including the unreleased one
 
 ## Lab 2 — Exploiting NoSQL Injection to Extract Data
 
@@ -34,9 +35,5 @@ The error message after adding double quotes
 6. Observe the correct characters for each position to reconstruct the administrator password.
 7. Log in as the administrator using the enumerated password to solve the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* nosqli\_extract\_step1.png
-* nosqli\_extract\_step2.png
-* nosqli\_extract\_step3.png
+![iimage alt](
 
