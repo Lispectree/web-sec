@@ -58,7 +58,8 @@ Craft an exploit on the exploit server
 4. Host a small script on the exploit server that reads `location.hash` and sends it to your server (or logs it). Deliver the crafted authorization URL to the victim so their browser returns the token in the fragment to your exploit page.
 5. Retrieve the stolen access token from your exploit server logs, place it into the Authorization header for the `/me` request in Repeater, fetch the victim’s data (including their API key), and submit it to solve the lab.
  
-   ![image alt](
+   ![image alt](https://github.com/Lispectree/web-sec/blob/52d2c61ff60e8e33dda4dab46af9178985df8a12/web-security-labs/labs/oauth-authentication/OATH%20LAB3%20PHOTO1.jpg)
+   The redirect url that is prone to path traversal
 
 
 
