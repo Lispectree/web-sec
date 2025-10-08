@@ -79,7 +79,8 @@ How appending a null byte can bypass simple checks that only look at the filenam
 2. Change the filename parameter to include a null byte after the target name, for example: `../../../etc/passwd%00.png`.
 3. Send the edited request. If the response contains `/etc/passwd`, the server likely accepted the request as a `.png` but actually opened the earlier filename because of the null byte — showing the extension check was bypassed.
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/f3e384d7ced143a6e49fc0554293041229800cfd/web-security-labs/labs/path-traversal/PATH%20LAB4%20PHOTO1.jpg)
+Add null byte feature
 
 
 
