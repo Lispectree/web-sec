@@ -58,6 +58,10 @@ How double-encoding or extra URL decoding can bypass checks that don’t fully n
 3. Send the modified request; if `/etc/passwd` is returned, the server decoded the value and allowed traversal despite the filter.
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/9e60008609c5ec9f34c06df6973cd870b8dfb035/web-security-labs/labs/path-traversal/PATH%20LAB3%20PHOTO1.jpg)
+The method used for the previous lab doesn’t work
+
+
 ![image alt](
 
 
