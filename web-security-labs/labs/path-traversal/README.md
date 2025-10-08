@@ -36,6 +36,10 @@ How naive filters that look for exact `../` sequences can be bypassed by slightl
 3. Send the request; if `/etc/passwd` is returned, the simple filter didn’t catch the altered traversal string.
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/93a707b02d5cc482e6c809d3c083fa4c11a78bab/web-security-labs/labs/path-traversal/PATH%20LAB2%20PHOTO1.jpg)
+The previous method doesn’t work
+
+
 ![image alt](
 
 ---
