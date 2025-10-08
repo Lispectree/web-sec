@@ -18,7 +18,8 @@ Race conditions occur when an application does not properly handle multiple oper
 After logging in it shows you have a promo code
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/8be78f30fc21ce00b15040b16cb9dc61b698297b/web-security-labs/labs/race-conditions/RACE%20LAB1%20PHOTO2.jpg)
+Try and acquire a product well above your balance by trying to make use of the promo code multiple times simultaneously through race conditions
 
 ## Lab 2 — Multi-endpoint Race Conditions
 
