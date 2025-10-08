@@ -62,7 +62,8 @@ How double-encoding or extra URL decoding can bypass checks that don’t fully n
 The method used for the previous lab doesn’t work
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/e1c5abcbf9f50ff81c7f9af186c74accc5f0a739/web-security-labs/labs/path-traversal/PATH%20LAB3%20PHOTO2.jpg)
+Double url encode characters
 
 
 ---
@@ -78,13 +79,7 @@ How appending a null byte can bypass simple checks that only look at the filenam
 2. Change the filename parameter to include a null byte after the target name, for example: `../../../etc/passwd%00.png`.
 3. Send the edited request. If the response contains `/etc/passwd`, the server likely accepted the request as a `.png` but actually opened the earlier filename because of the null byte — showing the extension check was bypassed.
 
-**Images (placeholders — add 2–3 screenshots):**
+![image alt](
 
-* `images/path_traversal_nullbyte_step1.png`
-* `images/path_traversal_nullbyte_step2.png`
-* `images/path_traversal_nullbyte_step3.png`
 
-**Quick note:** Modern servers/libraries typically block null-byte tricks; validate and normalize filenames strictly.
-
----
 
