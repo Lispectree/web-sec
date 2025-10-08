@@ -34,6 +34,10 @@ You can change the email to any email address of your choice
 4. When the victim loads the exploit, their browser will follow the iframe URL and attach your social account to the victim’s blog account.
 5. Now choose "Log in with social media" on the blog — you get logged in as the victim (admin); go to the admin panel and delete Carlos to solve the lab.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/53f534469ec4445245321a9052151a6f2341840d/web-security-labs/labs/oauth-authentication/OATH%20LAB2%20PHOTO1.jpg)
+Try and add a social media after logging in
+
+
 ![image alt](
 
 
