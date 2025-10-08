@@ -44,7 +44,8 @@ Send all the request in parallel
  Send the cart and check out request simultaneously
 
 
-  ![image alt](
+  ![image alt](https://github.com/Lispectree/web-sec/blob/f3b74ec9f36f10c8625a7cf124ce8d44c23d1641/web-security-labs/labs/race-conditions/RACE%20LAB2%20PHOTO3.jpg)
+  
 
 
 ## Lab 3 — Exploiting Time-Sensitive Vulnerabilities
@@ -59,10 +60,5 @@ Send all the request in parallel
 4. Change the username in one request to target another user, like carlos.
 5. Use the shared token to reset the other user's password and complete the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* race\_conditions\_time\_sensitive\_step1.png
-* race\_conditions\_time\_sensitive\_step2.png
-* race\_conditions\_time\_sensitive\_step3.png
-
+  ![image alt](
 
