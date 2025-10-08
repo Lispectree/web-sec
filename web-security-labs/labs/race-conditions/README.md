@@ -36,7 +36,11 @@ Send all the request in parallel
 3. In Burp Repeater, send the requests in parallel instead of sequentially.
 4. Observe if the checkout succeeds even with insufficient funds.
 5. Repeat with the leather jacket until the purchase completes successfully.
-   ![image alt](
+   ![image alt](https://github.com/Lispectree/web-sec/blob/258f8393cd40af5858257fbedacc312f3539af89/web-security-labs/labs/race-conditions/RACE%20LAB2%20PHOTO1.jpg)
+   The lab
+
+
+ ![image alt](
 
 
 ## Lab 3 — Exploiting Time-Sensitive Vulnerabilities
