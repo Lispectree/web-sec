@@ -37,6 +37,10 @@ How to run a command that writes its output to a file, then request that file to
 2. Send that feedback request so the server executes the command and writes the file.
 3. Intercept the request that loads a product image, change the `filename` parameter to `output.txt`, and send it. The response will contain the contents of `output.txt` (the command output), showing the injection worked.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/a88708c338cf118b53e8e2ea9df83596ae5cd5fc/web-security-labs/labs/os-command-injection/OS%20LAB2%20PHOTO1.jpg)
+The email section is vulnerable to command injection
+
+
 ![image alt](
 
 ---
