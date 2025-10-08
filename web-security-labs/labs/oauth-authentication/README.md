@@ -14,13 +14,11 @@ OAuth (Open Authorization) lets sites delegate authentication to third-party pro
 4. Use "Request in browser -> In original session" on that modified request to open the URL in your browser; you should be logged in as Carlos.
 5. Confirm you can access Carlos’s account to solve the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* oauth-authentication_auth-bypass-oauth-implicit_step1.png
-* oauth-authentication_auth-bypass-oauth-implicit_step2.png
-* oauth-authentication_auth-bypass-oauth-implicit_step3.png
+![image alt](https://github.com/Lispectree/web-sec/blob/18ec95278de2f0bbd269de560f06601be14d7afe/web-security-labs/labs/oauth-authentication/OATH%20LAB1%20PHOTO1.jpg)
+Sign in to the account with the details provided
 
 
+![image alt](
 ## Lab 2 — Forced OAuth profile linking
 
 **What this teaches:** **How missing CSRF/state in account-linking flows lets an attacker attach their social profile to another user’s account.**
