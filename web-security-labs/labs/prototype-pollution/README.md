@@ -40,6 +40,10 @@ Use a payload to get an alert
 Make use of the DOM invader option
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/8c0cee7c6c425d7ed6a60a12c689ae3b1dd75323/web-security-labs/labs/prototype-pollution/PROTO%20LAB2%20PHOTO2.jpg)
+The proto sources
+
+
 ![image alt](
 
 
