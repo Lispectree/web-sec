@@ -21,6 +21,9 @@ The search url can be used to contaminate the prototype
 ![image alt](https://github.com/Lispectree/web-sec/blob/c5d459e90d3d79d10f366b51a9d81f3e3797091b/web-security-labs/labs/prototype-pollution/PROTO%20LAB1%20PHOTO2.jpg)
 
 
+![image alt]
+
+
 ## Lab 2 — DOM XSS via client-side prototype pollution (transport_url property)
 
 **What this teaches (one line):** How adding a property like `transport_url` to `Object.prototype` can influence code that dynamically appends remote scripts and cause XSS.**
