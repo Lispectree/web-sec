@@ -18,7 +18,10 @@ OAuth (Open Authorization) lets sites delegate authentication to third-party pro
 Sign in to the account with the details provided
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/1787b3553fa915d3244e76303578427c63ac46d0/web-security-labs/labs/oauth-authentication/OATH%20LAB1%20PHOTO2.jpg)
+In the request of that authentication 
+You can change the email to any email address of your choice
+
 ## Lab 2 — Forced OAuth profile linking
 
 **What this teaches:** **How missing CSRF/state in account-linking flows lets an attacker attach their social profile to another user’s account.**
@@ -31,11 +34,7 @@ Sign in to the account with the details provided
 4. When the victim loads the exploit, their browser will follow the iframe URL and attach your social account to the victim’s blog account.
 5. Now choose "Log in with social media" on the blog — you get logged in as the victim (admin); go to the admin panel and delete Carlos to solve the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* oauth-authentication_forced-profile-linking_step1.png
-* oauth-authentication_forced-profile-linking_step2.png
-* oauth-authentication_forced-profile-linking_step3.png
+![image alt](
 
 
 ## Lab 3 — Stealing OAuth access tokens via an open redirect
