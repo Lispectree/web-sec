@@ -20,7 +20,8 @@ How a basic `../` sequence in a filename can let you read files outside the inte
 This request gets a jpg file from the server
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/4acba78320b1f80718054a5c2f45bdfc250caa88/web-security-labs/labs/path-traversal/PATH%20LAB1%20PHOTO2.jpg)
+Using path traversal we get the contents of etc/passwd
 
 
 ## Lab 2 — Traversal sequences stripped non-recursively
@@ -34,13 +35,8 @@ How naive filters that look for exact `../` sequences can be bypassed by slightl
 2. Replace the filename value with: `....//....//....//etc/passwd`.
 3. Send the request; if `/etc/passwd` is returned, the simple filter didn’t catch the altered traversal string.
 
-**Images (placeholders — add 2–3 screenshots):**
 
-* `images/path_traversal_stripped_nonrec_step1.png`
-* `images/path_traversal_stripped_nonrec_step2.png`
-* `images/path_traversal_stripped_nonrec_step3.png`
-
-**Quick note:** Filters should normalize input before checking for traversal sequences.
+![image alt](
 
 ---
 
