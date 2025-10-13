@@ -21,7 +21,8 @@ Server-side template injection (SSTI) occurs when user-supplied input is rendere
 Notice that OS commands injected to the query can be executed
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/3b0b1bac453e880618c0e12bbb8a2120b3f49ac8/web-security-labs/labs/server-side-template-injection/SSTI%20LAB1%20PHOTO2.jpg)
+Input a command to delete a user file
 
 
 
@@ -38,11 +39,7 @@ Notice that OS commands injected to the query can be executed
    `<#assign ex="freemarker.template.utility.Execute"?new()> ${ ex("rm /home/carlos/morale.txt") }`
 5. Save the template and view the product page. The command executes and the lab is solved.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* ssti_freemarker_step1.png
-* ssti_freemarker_step2.png
-* ssti_freemarker_step3.png
+![image alt](
 
 ---
 
