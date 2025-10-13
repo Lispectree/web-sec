@@ -81,5 +81,9 @@ Makes it accessible
 ![image alt](https://github.com/Lispectree/web-sec/blob/f1b89932c52f2d1b43304d91a1a05bc525952839/web-security-labs/labs/ssrf/SSRF%20LAB4%20PHOTO1.jpg)
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/0aaedd8da1cf6396365786ff3ea861d448bea7b8/web-security-labs/labs/ssrf/SSRF%20LAB4%20PHOTO2.jpg)
+Local host can’t be accessed through stock api
+
+
 ![image alt](
 
