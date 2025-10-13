@@ -78,4 +78,8 @@ Makes it accessible
 3. Exploit the open redirection using the nextProduct path: /product/nextProduct?path=[http://192.168.0.12:8080/admin](http://192.168.0.12:8080/admin).
 4. Amend the path to delete carlos: /product/nextProduct?path=[http://192.168.0.12:8080/admin/delete?username=carlos](http://192.168.0.12:8080/admin/delete?username=carlos) and forward the request.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/f1b89932c52f2d1b43304d91a1a05bc525952839/web-security-labs/labs/ssrf/SSRF%20LAB4%20PHOTO1.jpg)
+
+
 ![image alt](
+
