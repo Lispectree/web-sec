@@ -53,7 +53,11 @@ Access the admin apge
 3. Use [http://127.1/](http://127.1/) instead, then [http://127.1/admin](http://127.1/admin) — blocked again.
 4. Double URL encode the "a" to %2561 to access the admin interface and delete carlos.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/9546dbce6fc588d4373a53f28d5ae4cfb43098f8/web-security-labs/labs/ssrf/SSRF%20LAB3%20PHOTO1.jpg)
+
+
 ![image alt](
+
 
 
 
