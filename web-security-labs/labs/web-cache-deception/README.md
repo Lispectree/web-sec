@@ -65,6 +65,10 @@ Deliver the exploit and access the api of the victim
  Evidence of the use of cache
 
 
+  ![image alt](https://github.com/Lispectree/web-sec/blob/5b8d0094d968eec66716750003cf90900d7620ed/web-security-labs/labs/web-cache-deception/WEB%20DEC%20LAB3%20PHOTO2.jpg)
+  Using path traversal we are able to make a my-account request get saved in the cache by decieving the web app that it’s a request for resources
+
+
   ![image alt](
  
 
