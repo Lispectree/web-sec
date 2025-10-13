@@ -87,6 +87,10 @@ An verbose error shows it is handlebars
 5. Save the template and submit the rendered key to solve the lab.
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/5366493f37bedf9eb7fb2485eac0a6e4a4dd074c/web-security-labs/labs/server-side-template-injection/SSTI%20LAB4%20PHOTO1.jpg)
+Verbose error discloses it is using Django
+
+
 ![image alt](
 
 
