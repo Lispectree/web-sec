@@ -18,7 +18,10 @@ The stock api
 Discloses that there’s a url that can be manipulated by the client used to generate stock check
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/b70e6e0a844672d43cdfde4e707a7f15d3c11c45/web-security-labs/labs/ssrf/SSRF%20LAB1%20PHOTO2.jpg)
+Change the url to local host and see that you can access the admin panel
+
+ **Lab 2** 
 **What this teaches:** How SSRF can target other internal servers by guessing IP addresses.
 
 **Simple beginner walkthrough:**
@@ -28,12 +31,7 @@ Discloses that there’s a url that can be manipulated by the client used to gen
 3. Highlight the last octet, add §, set payload type to Numbers, From 1, To 255, Step 1, and start the attack.
 4. Identify the request returning status 200, send it to Repeater, and change the path to delete carlos.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* ssrf\_backend\_step1.png
-* ssrf\_backend\_step2.png
-* ssrf\_backend\_step3.png
-* 
+![image alt](
 
 ## Lab 3 — SSRF with Blacklist-Based Input Filter
 
