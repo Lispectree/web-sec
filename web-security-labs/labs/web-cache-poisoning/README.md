@@ -63,7 +63,9 @@ Alert is shown in the response
 The param miner identified the header
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/b6d86421cb6bffe00b3f11f83e9de28bbd3d2b63/web-security-labs/labs/web-cache-poisoning/WEB%20POIS%20LAB3%20PHOTO3.jpg)
+A script is added to that header
+The lab is solved when the page is accessed by the target
 
 
 
@@ -81,9 +83,4 @@ The param miner identified the header
 4. While both cache entries remain poisoned, load the English home page in a browser to simulate a victim: you should be redirected to the Spanish localized page and see the injected `alert()` fire.
 5. Replay both poisoning requests as needed to keep the cache entries active until the victim visits the site and the lab is solved.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* web-cache-poisoning_combined-exploit_step1.png
-* web-cache-poisoning_combined-exploit_step2.png
-* web-cache-poisoning_combined-exploit_step3.png
-
+![image alt](
