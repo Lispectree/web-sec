@@ -83,4 +83,8 @@ The lab is solved when the page is accessed by the target
 4. While both cache entries remain poisoned, load the English home page in a browser to simulate a victim: you should be redirected to the Spanish localized page and see the injected `alert()` fire.
 5. Replay both poisoning requests as needed to keep the cache entries active until the victim visits the site and the lab is solved.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/0b7ebd3ecc3a9897e7ef770e74851eba0e105633/web-security-labs/labs/web-cache-poisoning/WEB%20POIS%20LAB4%20PHOTO1.jpg)
+You can manipulate the host header
+
+
 ![image alt](
