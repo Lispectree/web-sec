@@ -64,6 +64,10 @@ We remove the file as instructed in the lab
 4. URL-encode the payload and set it as the `message` parameter in the URL.
 5. Load the URL to execute the command (`rm /home/carlos/morale.txt`) and solve the lab.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/853fc0ce8ae45a03b3a60c4126dd44940fdab95c/web-security-labs/labs/server-side-template-injection/SSTI%20LAB3%20PHOTO1.jpg)
+Brute force to find with type of template is being used
+
+
 ![image alt](
 
 
