@@ -36,5 +36,5 @@ Use debug sql to delete Carlos
    This shows the api functions of the llm
 
 
-   ![image alt](
-
+   ![image alt](https://github.com/Lispectree/web-sec/blob/26ab4e12bf6ef21b6a0f19e1a1af1a008c2e6a35/web-security-labs/labs/web-llm-attacks/WEB%20LLM%20LAB2%20PHOTO2.jpg)
+Once Carlos accesses this product his account gets deleted
