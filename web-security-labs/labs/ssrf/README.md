@@ -35,6 +35,10 @@ Change the url to local host and see that you can access the admin panel
 A url that can be manipulated by the user
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/e055d0dc887fc4b8261726627756cce6f6d3f682/web-security-labs/labs/ssrf/SSRF%20LAB2%20PHOTO2.jpg)
+Using intruder try and get the ip of the local host
+
+
 ![image alt](
 
 ## Lab 3 — SSRF with Blacklist-Based Input Filter
