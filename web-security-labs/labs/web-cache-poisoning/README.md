@@ -14,13 +14,11 @@ Web cache poisoning tricks a shared cache into storing attacker-controlled respo
 4. Replay the home-page request in Repeater with `X-Forwarded-Host` set to your exploit server (e.g. `YOUR-ID.exploit-server.net`) until the response shows `X-Cache: hit` and the exploit URL is reflected.
 5. As a victim, load the poisoned home page before the cache expires to trigger the `alert()` and solve the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* web-cache-poisoning_unkeyed-header_step1.png
-* web-cache-poisoning_unkeyed-header_step2.png
-* web-cache-poisoning_unkeyed-header_step3.png
+![image alt](https://github.com/Lispectree/web-sec/blob/41bcf3a21aa9f0490156349b0a722f6589e6b76e/web-security-labs/labs/web-cache-poisoning/WEB%20POIS%20LAB1%20PHOTO1.jpg)
 
 
+![image alt](
+This shows a web cache is being used and a file is loaded from the websec academy by the response
 ## Lab 2 — Web cache poisoning via an unkeyed query parameter
 
 **What this teaches:** How an unkeyed query parameter (utm_content) reflected in responses can allow stored XSS via the cache.
