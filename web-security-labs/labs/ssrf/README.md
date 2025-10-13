@@ -13,15 +13,12 @@ Server-Side Request Forgery (SSRF) occurs when an application allows users to ma
 3. Change the stockApi URL to [http://localhost/admin](http://localhost/admin) and forward it.
 4. Read the HTML to find the delete URL and submit it in the stockApi parameter.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* ssrf\_local\_step1.png
-* ssrf\_local\_step2.png
-* ssrf\_local\_step3.png
+![image alt](https://github.com/Lispectree/web-sec/blob/baca2f7309a17d0011fc5d94d2821703798a898e/web-security-labs/labs/ssrf/SSRF%20LAB1%20PHOTO1.jpg)
+The stock api
+Discloses that there’s a url that can be manipulated by the client used to generate stock check
 
 
-## Lab 2 — Basic SSRF Against Another Back-end System
-
+![image alt](
 **What this teaches:** How SSRF can target other internal servers by guessing IP addresses.
 
 **Simple beginner walkthrough:**
