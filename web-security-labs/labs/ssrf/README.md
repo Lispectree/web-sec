@@ -60,7 +60,9 @@ Access the admin apge
 Local host isn’t as the local host ip is blacklisted
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/9b514cafe21778a4c694104f1d417ba576970557/web-security-labs/labs/ssrf/SSRF%20LAB3%20PHOTO3.jpg)
+Removing two octet values of the blacklisted local host ip
+Makes it accessible
 
 
 
@@ -76,9 +78,4 @@ Local host isn’t as the local host ip is blacklisted
 3. Exploit the open redirection using the nextProduct path: /product/nextProduct?path=[http://192.168.0.12:8080/admin](http://192.168.0.12:8080/admin).
 4. Amend the path to delete carlos: /product/nextProduct?path=[http://192.168.0.12:8080/admin/delete?username=carlos](http://192.168.0.12:8080/admin/delete?username=carlos) and forward the request.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* ssrf\_openredirect\_step1.png
-* ssrf\_openredirect\_step2.png
-* ssrf\_openredirect\_step3.png
-
+![image alt](
