@@ -40,7 +40,8 @@ The use of cache
 The param miner shows query
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/53102ed561b7c6d5953d10dac27d4fcf9c547d7d/web-security-labs/labs/web-cache-poisoning/WEB%20POIS%20LAB2%20PHOTO3.jpg)
+Alert is shown in the response
 `
 
 ## Lab 3 — Web cache poisoning via parameter cloaking
@@ -54,12 +55,8 @@ The param miner shows query
 3. Append a second `callback` using a semicolon inside `utm_content`, for example: `?callback=setCountryCookie&utm_content=foo;callback=arbitraryFunction`. Send the request and note the response uses `arbitraryFunction(...)` while the cache key omits the `utm_content` part.
 4. Replace `arbitraryFunction` with `alert(1)` (URL-encode as needed): `?callback=setCountryCookie&utm_content=foo;callback=alert(1)`. Get the response cached, then load a page that imports `/js/geolocate.js` to trigger the alert. Replay the request periodically to keep the cache poisoned until the victim loads the page.
 5. The lab is solved when a victim visits a page that includes the poisoned `/js/geolocate.js` resource.
+   ![image alt](
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* web-cache-poisoning_parameter-cloaking_step1.png
-* web-cache-poisoning_parameter-cloaking_step2.png
-* web-cache-poisoning_parameter-cloaking_step3.png
 
 
 
