@@ -17,12 +17,12 @@ Server-side template injection (SSTI) occurs when user-supplied input is rendere
 5. Add the payload to the `message` parameter in the URL:
    `https://YOUR-LAB-ID.web-security-academy.net/?message=<%25+system("rm+/home/carlos/morale.txt")+%25>`
 6. Load the URL to execute the command and solve the lab.
+![image alt](https://github.com/Lispectree/web-sec/blob/f3b5431ec59b77905e0167b5eb2fcec0b9553971/web-security-labs/labs/server-side-template-injection/SSTI%20LAB1%20PHOTO1.jpg)
+Notice that OS commands injected to the query can be executed
 
-*Images (placeholders — add 2–3 screenshots):*
 
-* ssti_erb_step1.png
-* ssti_erb_step2.png
-* ssti_erb_step3.png
+![image alt](
+
 
 
 ## Lab 2 — Server-side template injection using documentation (Freemarker / Java)
