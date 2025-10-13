@@ -91,6 +91,7 @@ An verbose error shows it is handlebars
 Verbose error discloses it is using Django
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/54c17dddd5d1b153a491c1f987c82da27ffaf3eb/web-security-labs/labs/server-side-template-injection/SSTI%20LAB4%20PHOTO2.jpg)
+Access the secret key
 
 
