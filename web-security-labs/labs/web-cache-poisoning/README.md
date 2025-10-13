@@ -15,10 +15,11 @@ Web cache poisoning tricks a shared cache into storing attacker-controlled respo
 5. As a victim, load the poisoned home page before the cache expires to trigger the `alert()` and solve the lab.
 
 ![image alt](https://github.com/Lispectree/web-sec/blob/41bcf3a21aa9f0490156349b0a722f6589e6b76e/web-security-labs/labs/web-cache-poisoning/WEB%20POIS%20LAB1%20PHOTO1.jpg)
-
-
-![image alt](
 This shows a web cache is being used and a file is loaded from the websec academy by the response
+
+
+![image alt](https://github.com/Lispectree/web-sec/blob/a827de3b7da047c691b5896ad06947b387c9ff74/web-security-labs/labs/web-cache-poisoning/WEB%20POIS%20LAB1%20PHOTO2.jpg)
+Use param miner to get the unkeyed header where you can add the attacker controlled url
 ## Lab 2 — Web cache poisoning via an unkeyed query parameter
 
 **What this teaches:** How an unkeyed query parameter (utm_content) reflected in responses can allow stored XSS via the cache.
@@ -31,11 +32,7 @@ This shows a web cache is being used and a file is loaded from the websec academ
 4. Remove the `utm_content` parameter, copy the resulting URL and open it in a browser to confirm the alert triggers for users who load the cached page.
 5. Keep replaying the poisoning request as needed until the victim loads the poisoned page and the lab is solved.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* web-cache-poisoning_unkeyed-param_step1.png
-* web-cache-poisoning_unkeyed-param_step2.png
-* web-cache-poisoning_unkeyed-param_step3.png
+![image alt](
 `
 
 ## Lab 3 — Web cache poisoning via parameter cloaking
