@@ -61,7 +61,12 @@ Deliver the exploit and access the api of the victim
 4. Combine these to build /resources/..%2fmy-account, send it to create a cache entry, then deliver a link to Carlos from the exploit server.
 5. Open the delivered URL, copy Carlos’s API key, and submit it to solve the lab.
 
- ![image alt](
+ ![image alt](https://github.com/Lispectree/web-sec/blob/767da6895207f734158bcd4456234e6cc9abb591/web-security-labs/labs/web-cache-deception/WEB%20DEC%20LAB3%20PHOTO1.jpg)
+ Evidence of the use of cache
+
+
+  ![image alt](
+ 
 
 
 ---
