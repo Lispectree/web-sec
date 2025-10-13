@@ -14,12 +14,11 @@ Web applications that expose LLM (large language model) features can be risky wh
 4. Tell the LLM to call the Debug SQL API with `DELETE FROM users WHERE username='carlos'` and observe it sends the request.
 5. Verify that the user `carlos` has been deleted to solve the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
+![image alt](https://github.com/Lispectree/web-sec/blob/9d10c2621e0ef61ec82a86d93b4663c518e7bdf5/web-security-labs/labs/web-llm-attacks/WEB%20LLM%20LAB1%20PHOTO1.jpg)
+The LLM indicates only Carlos as the user
 
-* web-llm-attacks_excessive-agency_step1.png
-* web-llm-attacks_excessive-agency_step2.png
-* web-llm-attacks_excessive-agency_step3.png
 
+![image alt](
 
 ## Lab 2 — Indirect prompt injection
 
