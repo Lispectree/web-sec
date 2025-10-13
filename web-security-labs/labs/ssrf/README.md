@@ -39,7 +39,8 @@ A url that can be manipulated by the user
 Using intruder try and get the ip of the local host
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/2fa920f648897bdc3a029450a677900f7022938f/web-security-labs/labs/ssrf/SSRF%20LAB2%20PHOTO3.jpg)
+Access the admin apge
 
 ## Lab 3 — SSRF with Blacklist-Based Input Filter
 
@@ -52,13 +53,9 @@ Using intruder try and get the ip of the local host
 3. Use [http://127.1/](http://127.1/) instead, then [http://127.1/admin](http://127.1/admin) — blocked again.
 4. Double URL encode the "a" to %2561 to access the admin interface and delete carlos.
 
-*Images (placeholders — add 2–3 screenshots):*
+![image alt](
 
-* ssrf\_blacklist\_step1.png
-* ssrf\_blacklist\_step2.png
-* ssrf\_blacklist\_step3.png
 
-*Quick note:* Only test these steps in authorized lab environments.
 
 ## Lab 4 — SSRF via Open Redirection Vulnerability
 
