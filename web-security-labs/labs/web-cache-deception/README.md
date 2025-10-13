@@ -42,8 +42,11 @@ The target api key
 This shows cache is being used
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/754a6026d3641990ef1bf31b807936afd28967b9/web-security-labs/labs/web-cache-deception/WEB%20DEC%20LAB2%20PHOTO2.jpg)
+A delimeter that allows for the manipulation for the query is “?”
 
+
+![image alt](
 ## Lab 3 — Exploiting origin server normalization for web cache deception
 
 **What this teaches:** How differences in normalization (dot-segments, encoding) between origin and cache can be abused to cache private responses.
