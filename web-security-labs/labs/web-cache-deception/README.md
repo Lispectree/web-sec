@@ -37,6 +37,11 @@ The target api key
 3. Use Intruder to try delimiter characters after /my-account and discover that ? works (returns 200 with your API key).
 4. In Repeater, try adding an encoded dot-segment like /aaa/..%2fmy-account to confirm the origin resolves it to /my-account.
 5. Craft a cached URL using the resources prefix (e.g. /resources/..%2fmy-account?wcd), deliver it to Carlos from the exploit server, then open it yourself and copy his API key.
+
+![image alt](https://github.com/Lispectree/web-sec/blob/8545e8d563946cb60744a0a5327112cc30882604/web-security-labs/labs/web-cache-deception/WEB%20DEC%20LAB2%20PHOTO1.jpg)
+This shows cache is being used
+
+
 ![image alt](
 
 ## Lab 3 — Exploiting origin server normalization for web cache deception
