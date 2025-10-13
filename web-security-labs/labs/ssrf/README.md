@@ -31,6 +31,10 @@ Change the url to local host and see that you can access the admin panel
 3. Highlight the last octet, add §, set payload type to Numbers, From 1, To 255, Step 1, and start the attack.
 4. Identify the request returning status 200, send it to Repeater, and change the path to delete carlos.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/bb2f577387931255d997222847f3dc147a35fdf3/web-security-labs/labs/ssrf/SSRF%20LAB2%20PHOTO1.jpg)
+A url that can be manipulated by the user
+
+
 ![image alt](
 
 ## Lab 3 — SSRF with Blacklist-Based Input Filter
