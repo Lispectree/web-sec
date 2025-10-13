@@ -32,6 +32,10 @@ Use param miner to get the unkeyed header where you can add the attacker control
 4. Remove the `utm_content` parameter, copy the resulting URL and open it in a browser to confirm the alert triggers for users who load the cached page.
 5. Keep replaying the poisoning request as needed until the victim loads the poisoned page and the lab is solved.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/66c12676db904da1b4fa08394abef7ce5f2344ea/web-security-labs/labs/web-cache-poisoning/WEB%20POIS%20LAB2%20PHOTO1.jpg)
+The use of cache
+
+
 ![image alt](
 `
 
