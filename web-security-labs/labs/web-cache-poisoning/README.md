@@ -59,7 +59,11 @@ Alert is shown in the response
    The request that gets saved in the cache
 
 
-   ![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/0ae7815ff541389231853c73cddd4beeaf384358/web-security-labs/labs/web-cache-poisoning/WEB%20POIS%20LAB3%20PHOTO2.jpg)
+The param miner identified the header
+
+
+![image alt](
 
 
 
