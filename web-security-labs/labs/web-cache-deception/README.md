@@ -22,7 +22,8 @@ The login shows your api key
 The target api key will save in the cache
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/26b4a80bd2cc9b6ea59660cab2001a43510a4bbc/web-security-labs/labs/web-cache-deception/WEB%20DEC%20LAB1%20PHOTO3.jpg)
+The target api key
 
 
 ## Lab 2 — Exploiting path delimiter discrepancies for web cache deception
@@ -36,14 +37,7 @@ The target api key will save in the cache
 3. Use Intruder to try delimiter characters after /my-account and discover that ? works (returns 200 with your API key).
 4. In Repeater, try adding an encoded dot-segment like /aaa/..%2fmy-account to confirm the origin resolves it to /my-account.
 5. Craft a cached URL using the resources prefix (e.g. /resources/..%2fmy-account?wcd), deliver it to Carlos from the exploit server, then open it yourself and copy his API key.
-
-*Images (placeholders — add 2–3 screenshots):*
-
-* web-cache-deception_path-delimiter_step1.png
-* web-cache-deception_path-delimiter_step2.png
-* web-cache-deception_path-delimiter_step3.png
-
-*Quick note:* Only test cache bypass techniques in controlled environments.
+![image alt](
 
 ## Lab 3 — Exploiting origin server normalization for web cache deception
 
