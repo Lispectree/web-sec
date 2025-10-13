@@ -69,7 +69,8 @@ Deliver the exploit and access the api of the victim
   Using path traversal we are able to make a my-account request get saved in the cache by decieving the web app that it’s a request for resources
 
 
-  ![image alt](
+  ![image alt](https://github.com/Lispectree/web-sec/blob/49044df8f22e0ad85d5919bb48353450ee38dd4f/web-security-labs/labs/web-cache-deception/WEB%20DEC%20LAB3%20PHOTO3.jpg)
+  Deliver the exploit
  
 
 
