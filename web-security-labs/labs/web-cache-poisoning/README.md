@@ -36,6 +36,10 @@ Use param miner to get the unkeyed header where you can add the attacker control
 The use of cache
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/bc345e02e84cbcf3f279e2dfbdcb246e13d4a7e8/web-security-labs/labs/web-cache-poisoning/WEB%20POIS%20LAB2%20PHOTO2.jpg)
+The param miner shows query
+
+
 ![image alt](
 `
 
