@@ -44,9 +44,12 @@ The template
 But we don’t know the documentation being used
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/37eb03c3d2b776e40e6d8c3ff307b83c303ef87e/web-security-labs/labs/server-side-template-injection/SSTI%20LAB2%20PHOTO2.jpg)
+An error discloses it is freemarker
+
+
 ![image alt](
 
----
 
 ## Lab 3 — SSTI in an unknown template language with documented exploit (Handlebars)
 
