@@ -18,6 +18,10 @@ Web cache deception attacks trick a cache into storing private pages under URLs 
 The login shows your api key
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/62af85abe4e73c4cc28037eb5a79fb55d1b1c1a9/web-security-labs/labs/web-cache-deception/WEB%20DEC%20LAB1%20PHOTO2.jpg)
+The target api key will save in the cache
+
+
 ![image alt](
 
 
