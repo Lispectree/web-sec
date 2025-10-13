@@ -46,7 +46,9 @@ This shows cache is being used
 A delimeter that allows for the manipulation for the query is “?”
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/08a4525a319e72768abeeb58319ae43a4734f418/web-security-labs/labs/web-cache-deception/WEB%20DEC%20LAB2%20PHOTO3.jpg)
+Deliver the exploit and access the api of the victim
+
 ## Lab 3 — Exploiting origin server normalization for web cache deception
 
 **What this teaches:** How differences in normalization (dot-segments, encoding) between origin and cache can be abused to cache private responses.
@@ -59,11 +61,8 @@ A delimeter that allows for the manipulation for the query is “?”
 4. Combine these to build /resources/..%2fmy-account, send it to create a cache entry, then deliver a link to Carlos from the exploit server.
 5. Open the delivered URL, copy Carlos’s API key, and submit it to solve the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
+ ![image alt](
 
-* web-cache-deception_normalization_step1.png
-* web-cache-deception_normalization_step2.png
-* web-cache-deception_normalization_step3.png
 
 ---
 
