@@ -39,6 +39,11 @@ Input a command to delete a user file
    `<#assign ex="freemarker.template.utility.Execute"?new()> ${ ex("rm /home/carlos/morale.txt") }`
 5. Save the template and view the product page. The command executes and the lab is solved.
 
+![image alt](https://github.com/Lispectree/web-sec/blob/564e8b26e65374170a1ccc6eec3cd54e546ff492/web-security-labs/labs/server-side-template-injection/SSTI%20LAB2%20PHOTO1.jpg)
+The template
+But we don’t know the documentation being used
+
+
 ![image alt](
 
 ---
