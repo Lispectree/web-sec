@@ -14,12 +14,11 @@ Web cache deception attacks trick a cache into storing private pages under URLs 
 4. On the exploit server, create a small page that redirects Carlos to the cached URL (use a unique path so his view becomes cached).
 5. Visit the crafted URL for Carlos, then open that cached URL yourself and copy Carlos’s API key to solve the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
+![image alt](https://github.com/Lispectree/web-sec/blob/b3f95b17ba2dfc2ed91f6abbb24eb11988ba3485/web-security-labs/labs/web-cache-deception/WEB%20DEC%20LAB1%20PHOTO1.jpg)
+The login shows your api key
 
-* web-cache-deception_path-mapping_step1.png
-* web-cache-deception_path-mapping_step2.png
-* web-cache-deception_path-mapping_step3.png
 
+![image alt](
 
 
 ## Lab 2 — Exploiting path delimiter discrepancies for web cache deception
