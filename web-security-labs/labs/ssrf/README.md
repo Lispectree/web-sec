@@ -56,6 +56,10 @@ Access the admin apge
 ![image alt](https://github.com/Lispectree/web-sec/blob/9546dbce6fc588d4373a53f28d5ae4cfb43098f8/web-security-labs/labs/ssrf/SSRF%20LAB3%20PHOTO1.jpg)
 
 
+![image alt](https://github.com/Lispectree/web-sec/blob/b85ae9dcb80c910ebd590a2ecedcbbefc8094d5a/web-security-labs/labs/ssrf/SSRF%20LAB3%20PHOTO2.jpg)
+Local host isn’t as the local host ip is blacklisted
+
+
 ![image alt](
 
 
