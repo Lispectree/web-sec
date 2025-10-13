@@ -87,4 +87,5 @@ The lab is solved when the page is accessed by the target
 You can manipulate the host header
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/18883384ebf29893c6e7109673f870a034c2850b/web-security-labs/labs/web-cache-poisoning/WEB%20POIS%20LAB4%20PHOTO2.jpg)
+The translation page poisoned
