@@ -85,5 +85,6 @@ Makes it accessible
 Local host can’t be accessed through stock api
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/316e3d71e274bdb4b0c00318cc7ebcfcd2881493/web-security-labs/labs/ssrf/SSRF%20LAB4%20PHOTO3.jpg)
+Use the url that redirects to access the admin panel
 
