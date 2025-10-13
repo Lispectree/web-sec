@@ -68,7 +68,8 @@ We remove the file as instructed in the lab
 Brute force to find with type of template is being used
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/a6134526b6f766f240db44e2be343074ccd88a7e/web-security-labs/labs/server-side-template-injection/SSTI%20LAB3%20PHOTO2.jpg)
+An verbose error shows it is handlebars
 
 
 ---
@@ -85,10 +86,7 @@ Brute force to find with type of template is being used
 4. Access the secret key using `{{settings.SECRET_KEY}}`.
 5. Save the template and submit the rendered key to solve the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
 
-* ssti_django_step1.png
-* ssti_django_step2.png
-* ssti_django_step3.png
+![image alt](
 
 
