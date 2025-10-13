@@ -48,7 +48,8 @@ But we don’t know the documentation being used
 An error discloses it is freemarker
 
 
-![image alt](
+![image alt](https://github.com/Lispectree/web-sec/blob/d685ff20541e5c9f56c9add35f4be23429ebf185/web-security-labs/labs/server-side-template-injection/SSTI%20LAB2%20PHOTO3.jpg)
+We remove the file as instructed in the lab
 
 
 ## Lab 3 — SSTI in an unknown template language with documented exploit (Handlebars)
@@ -63,11 +64,8 @@ An error discloses it is freemarker
 4. URL-encode the payload and set it as the `message` parameter in the URL.
 5. Load the URL to execute the command (`rm /home/carlos/morale.txt`) and solve the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
+![image alt](
 
-* ssti_handlebars_step1.png
-* ssti_handlebars_step2.png
-* ssti_handlebars_step3.png
 
 ---
 
