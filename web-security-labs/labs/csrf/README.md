@@ -14,11 +14,6 @@ Cross-Site Request Forgery (CSRF) tricks a logged-in user's browser into making 
 4. Host an auto-submitting HTML form on the exploit server that performs the GET change-email request for a victim.
 5. Deliver the exploit to the victim to solve the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* csrf_token-method_step1.png
-* csrf_token-method_step2.png
-* csrf_token-method_step3.png
 
 ## Lab 2 — CSRF where token is not tied to user session
 
@@ -32,11 +27,6 @@ Cross-Site Request Forgery (CSRF) tricks a logged-in user's browser into making 
 4. Create a PoC exploit that includes a fresh token (tokens are single-use) and host it on the exploit server.
 5. Deliver the stored exploit to the victim to change their email and solve the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* csrf_token-not-tied_step1.png
-* csrf_token-not-tied_step2.png
-* csrf_token-not-tied_step3.png
 
 
 
@@ -52,11 +42,6 @@ Cross-Site Request Forgery (CSRF) tricks a logged-in user's browser into making 
 4. Build an exploit page that navigates the victim to the confirmation URL with a `postId` that triggers a GET equivalent of the change-email action (URL-encode `?` and `&` as needed).
 5. Deliver the exploit; when the victim’s browser follows the client-side redirect, the email change executes and the lab is solved.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* csrf_samesite-bypass_step1.png
-* csrf_samesite-bypass_step2.png
-* csrf_samesite-bypass_step3.png
 
 
 ## Lab 4 — CSRF where Referer validation depends on header being present
@@ -71,10 +56,5 @@ Cross-Site Request Forgery (CSRF) tricks a logged-in user's browser into making 
 4. Create an exploit HTML page that includes `<meta name="referrer" content="no-referrer">` to suppress the Referer header and host it on the exploit server.
 5. Deliver the exploit to the victim so their browser sends the request without a Referer header and solves the lab.
 
-*Images (placeholders — add 2–3 screenshots):*
-
-* csrf_referer-dep_step1.png
-* csrf_referer-dep_step2.png
-* csrf_referer-dep_step3.png
 
 
